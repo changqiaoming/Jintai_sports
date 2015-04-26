@@ -27,7 +27,11 @@
 {
                 "pageName":"注册页面",
                 "type":"Wireframe",
-                "url":"注册页面.html"}]},
+                "url":"注册页面.html"},
+{
+                "pageName":"验证码",
+                "type":"Wireframe",
+                "url":"验证码.html"}]},
 {
             "pageName":"左侧边栏",
             "type":"Wireframe",
@@ -137,41 +141,45 @@
                     "type":"Wireframe",
                     "url":"【我的】页面（已编辑头像）.html"}]},
 {
-                "pageName":"我的劲态（二维码）",
+                "pageName":"我的劲态（默认关注）",
                 "type":"Wireframe",
-                "url":"我的劲态（二维码）.html",
+                "url":"我的劲态（默认关注）.html",
                 "children":[{
-                    "pageName":"持卡人评价我",
+                    "pageName":"我的劲态（二维码）",
                     "type":"Wireframe",
-                    "url":"持卡人评价我.html"},
+                    "url":"我的劲态（二维码）.html"},
 {
-                    "pageName":"我的劲态（健身卡）",
+                    "pageName":"我的评价（持卡人评价我）",
                     "type":"Wireframe",
-                    "url":"我的劲态（健身卡）.html",
-                    "children":[{
-                        "pageName":"持卡人评价我",
-                        "type":"Wireframe",
-                        "url":"持卡人评价我_1.html"}]}]},
+                    "url":"我的评价（持卡人评价我）.html"},
 {
-                "pageName":"我的健身数据",
-                "type":"Wireframe",
-                "url":"我的健身数据.html"},
+                    "pageName":"我的评价（商户评价我）",
+                    "type":"Wireframe",
+                    "url":"我的评价（商户评价我）.html"}]},
 {
                 "pageName":"我的交易",
                 "type":"Wireframe",
                 "url":"我的交易.html"},
 {
-                "pageName":"我的评价",
+                "pageName":"我的健身数据",
                 "type":"Wireframe",
-                "url":"我的评价.html"},
+                "url":"我的健身数据.html"},
 {
-                "pageName":"我的消息",
+                "pageName":"我的消息（未读）",
                 "type":"Wireframe",
-                "url":"我的消息.html"},
+                "url":"我的消息（未读）.html",
+                "children":[{
+                    "pageName":"我的消息（已读）",
+                    "type":"Wireframe",
+                    "url":"我的消息（已读）.html",
+                    "children":[{
+                        "pageName":"消息详情",
+                        "type":"Wireframe",
+                        "url":"消息详情.html"}]}]},
 {
-                "pageName":"我关注的商户",
+                "pageName":"关注的商户详情",
                 "type":"Wireframe",
-                "url":"我关注的商户.html"}]},
+                "url":"关注的商户详情.html"}]},
 {
             "pageName":"设置",
             "type":"Wireframe",

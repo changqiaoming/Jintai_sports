@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"我的健身数据.html",
-  "generationDate":new Date(1429794607248.1),
+  "generationDate":new Date(1430066323828.96),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -62,10 +62,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 我的劲态（二维码）",
+                      "description":"在 当前窗口 打开 我的劲态（默认关注）",
                       "target":{
                         "targetType":"page",
-                        "url":"我的劲态（二维码）.html",
+                        "url":"我的劲态（默认关注）.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

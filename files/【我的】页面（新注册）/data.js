@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"【我的】页面（新注册）.html",
-  "generationDate":new Date(1429794606719.07),
+  "generationDate":new Date(1430066323339.93),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -247,10 +247,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 【我的】页面（新注册）",
+                      "description":"在 当前窗口 打开 我的劲态（默认关注）",
                       "target":{
                         "targetType":"page",
-                        "url":"【我的】页面（新注册）.html",
+                        "url":"我的劲态（默认关注）.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

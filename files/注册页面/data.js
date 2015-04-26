@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"注册页面.html",
-  "generationDate":new Date(1429794604769.95),
+  "generationDate":new Date(1430066321268.82),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -127,76 +127,6 @@
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"21a305a06ce24867ba4aff332bfa604f",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"buttonShape",
-          "visible":true,
-          "style":{
-            "fontSize":"17px",
-            "foreGroundFill":{
-              "fillType":"solid",
-              "color":0xFFFFFFFF,
-              "opacity":1},
-            "opacity":"0",
-            "location":{
-              "x":20,
-              "y":264.5},
-            "size":{
-              "width":280,
-              "height":39},
-            "borderWidth":"-1",
-            "borderFill":{
-              "fillType":"solid",
-              "color":0xFFCCCCCC},
-            "cornerRadiusTopLeft":"5"},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"528ea4c042724249929bfec454f4f2a3",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "fontSize":"17px",
-                "foreGroundFill":{
-                  "fillType":"solid",
-                  "color":0xFFFFFFFF,
-                  "opacity":1},
-                "opacity":"0",
-                "location":{
-                  "x":20,
-                  "y":264.5},
-                "size":{
-                  "width":280,
-                  "height":39},
-                "borderWidth":"-1",
-                "borderFill":{
-                  "fillType":"solid",
-                  "color":0xFFCCCCCC},
-                "cornerRadiusTopLeft":"5"},
-              "adaptiveStyles":{
-}}],
-          "interactionMap":{
-            "onClick":{
-              "description":"OnClick",
-              "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 【我的】页面（新注册）",
-                      "target":{
-                        "targetType":"page",
-                        "url":"【我的】页面（新注册）.html",
-                        "includeVariables":true},
-                      "linkType":"current"}]}]}},
-          "tabbable":true,
-          "images":{
-            "normal~":"resources/images/transparent.gif"}},
-{
           "id":"9dc50f5b2cf74a00b927caeec23a2ee4",
           "label":"注册页短信验证",
           "type":"dynamicPanel",
@@ -252,25 +182,16 @@
                           "description":"用例 1",
                           "isNewIfGroup":false,
                           "actions":[{
-                              "action":"fadeWidget",
-                              "description":"显示 注册页短信验证,<br>隐藏 (Image) 淡入淡出 500 毫秒",
-                              "objectsToFades":[{
-                                  "objectPath":["9dc50f5b2cf74a00b927caeec23a2ee4"],
-                                  "fadeInfo":{
-                                    "fadeType":"show",
-                                    "options":{
-                                      "showType":"none"}}},
-{
-                                  "objectPath":["1458e550ea564fbf88480540d58a260e"],
-                                  "fadeInfo":{
-                                    "fadeType":"hide",
-                                    "options":{
-                                      "easing":"fade",
-                                      "duration":500,
-                                      "showType":"none"}}}]}]}]}},
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 验证码",
+                              "target":{
+                                "targetType":"page",
+                                "url":"验证码.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/注册页面/u7.png"}}],
+                    "normal~":"images/注册页面/u5.png"}}],
               "style":{
                 "fill":{
                   "fillType":"solid",
@@ -292,13 +213,9 @@
       "scriptId":"u2"},
     "02f93300fc384ec19a13ac90d07c2747":{
       "scriptId":"u3"},
-    "21a305a06ce24867ba4aff332bfa604f":{
-      "scriptId":"u4"},
-    "528ea4c042724249929bfec454f4f2a3":{
-      "scriptId":"u5"},
     "9dc50f5b2cf74a00b927caeec23a2ee4":{
-      "scriptId":"u6"},
+      "scriptId":"u4"},
     "1458e550ea564fbf88480540d58a260e":{
-      "scriptId":"u7"},
+      "scriptId":"u5"},
     "8d1d422d684e412e9e2d46eb5234c52b":{
-      "scriptId":"u8"}}});
+      "scriptId":"u6"}}});

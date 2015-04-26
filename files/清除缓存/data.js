@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"清除缓存.html",
-  "generationDate":new Date(1429794607828.13),
+  "generationDate":new Date(1430066324460),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

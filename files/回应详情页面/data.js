@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"回应详情页面.html",
-  "generationDate":new Date(1429794605575),
+  "generationDate":new Date(1430066322143.87),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -30,7 +30,7 @@
 },
     "diagram":{
       "objects":[{
-          "id":"9d144afd505842a885303048d458e35c",
+          "id":"9709d35991b04514b8673c0c30836c70",
           "label":"",
           "type":"imageBox",
           "styleType":"imageBox",
@@ -42,7 +42,7 @@
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"3ea69f6ce1564ffab8252aeec7a602f3",
+              "id":"b0abf712d46843bb81b3069ade94d579",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -55,40 +55,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/发起购买请求页/u0.png"}},
-{
-          "id":"e01074bb34494ba094eb20c0fcc79fe5",
-          "label":"",
-          "type":"imageBox",
-          "styleType":"imageBox",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":100,
-              "y":0},
-            "size":{
-              "width":216,
-              "height":568}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"def1fa26bd454694a44a052b379e3973",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":100,
-                  "y":0},
-                "size":{
-                  "width":216,
-                  "height":568}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"images/回应详情页面/u2.png"}},
+            "normal~":"images/回应详情页面/u0.png"}},
 {
           "id":"252ab60c5cbf47fa8b995900fd4f40b3",
           "label":"",
@@ -98,7 +65,7 @@
           "style":{
             "location":{
               "x":26,
-              "y":198},
+              "y":197.5},
             "size":{
               "width":268,
               "height":173}},
@@ -114,7 +81,7 @@
               "style":{
                 "location":{
                   "x":26,
-                  "y":198},
+                  "y":197.5},
                 "size":{
                   "width":268,
                   "height":173}},
@@ -136,19 +103,15 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/回应详情页面/u4.png"}}]}},
+            "normal~":"images/回应详情页面/u2.png"}}]}},
   "masters":{
 },
   "objectPaths":{
-    "9d144afd505842a885303048d458e35c":{
+    "9709d35991b04514b8673c0c30836c70":{
       "scriptId":"u0"},
-    "3ea69f6ce1564ffab8252aeec7a602f3":{
+    "b0abf712d46843bb81b3069ade94d579":{
       "scriptId":"u1"},
-    "e01074bb34494ba094eb20c0fcc79fe5":{
-      "scriptId":"u2"},
-    "def1fa26bd454694a44a052b379e3973":{
-      "scriptId":"u3"},
     "252ab60c5cbf47fa8b995900fd4f40b3":{
-      "scriptId":"u4"},
+      "scriptId":"u2"},
     "8aa8aa6533b14194835cc5ede6663ba3":{
-      "scriptId":"u5"}}});
+      "scriptId":"u3"}}});

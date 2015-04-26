@@ -1,0 +1,134 @@
+﻿$axure.loadCurrentPage({
+  "url":"关注的商户详情.html",
+  "generationDate":new Date(1430066324047.97),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"8476788a273a49a2a38f532a3bd1da9a",
+    "type":"Axure:Page",
+    "name":"关注的商户详情",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"bc2997575eef40c9b3c5509ce88e681f",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":320,
+              "height":568}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9d7fd2de726547b097e65ecd71ccf667",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":320,
+                  "height":568}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 我的劲态（默认关注）",
+                      "target":{
+                        "targetType":"page",
+                        "url":"我的劲态（默认关注）.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/关注的商户详情/u0.png"}},
+{
+          "id":"5195b1a223d349129ad5a69a8c59630b",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "opacity":"0",
+            "location":{
+              "x":107,
+              "y":510},
+            "size":{
+              "width":210,
+              "height":58}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3efd4b8d0d174afd9a249ab1cbf668a3",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "opacity":"0",
+                "location":{
+                  "x":107,
+                  "y":510},
+                "size":{
+                  "width":210,
+                  "height":58}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 商户详情页（交易中）",
+                      "target":{
+                        "targetType":"page",
+                        "url":"商户详情页（交易中）.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "bc2997575eef40c9b3c5509ce88e681f":{
+      "scriptId":"u0"},
+    "9d7fd2de726547b097e65ecd71ccf667":{
+      "scriptId":"u1"},
+    "5195b1a223d349129ad5a69a8c59630b":{
+      "scriptId":"u2"},
+    "3efd4b8d0d174afd9a249ab1cbf668a3":{
+      "scriptId":"u3"}}});

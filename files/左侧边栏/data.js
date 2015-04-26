@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"左侧边栏.html",
-  "generationDate":new Date(1429794604897.96),
+  "generationDate":new Date(1430066321455.83),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -431,10 +431,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 我的劲态（二维码）",
+                      "description":"在 当前窗口 打开 我的劲态（默认关注）",
                       "target":{
                         "targetType":"page",
-                        "url":"我的劲态（二维码）.html",
+                        "url":"我的劲态（默认关注）.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

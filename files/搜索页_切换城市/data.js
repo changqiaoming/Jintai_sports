@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"搜索页_切换城市.html",
-  "generationDate":new Date(1429794605157.98),
+  "generationDate":new Date(1430066321715.84),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"【我的】页面（已编辑头像）.html",
-  "generationDate":new Date(1429794606840.07),
+  "generationDate":new Date(1430066323471.94),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -177,10 +177,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 我的劲态（健身卡）",
+                      "description":"在 当前窗口 打开 我的劲态（二维码）",
                       "target":{
                         "targetType":"page",
-                        "url":"我的劲态（健身卡）.html",
+                        "url":"我的劲态（二维码）.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -247,10 +247,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 我的劲态（二维码）",
+                      "description":"在 当前窗口 打开 我的劲态（默认关注）",
                       "target":{
                         "targetType":"page",
-                        "url":"我的劲态（二维码）.html",
+                        "url":"我的劲态（默认关注）.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

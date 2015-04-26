@@ -36,41 +36,19 @@
 }
 #u2 {
   position:absolute;
-  left:100px;
-  top:0px;
-  width:216px;
-  height:568px;
-}
-#u2_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:216px;
-  height:568px;
-}
-#u3 {
-  position:absolute;
-  left:2px;
-  top:276px;
-  width:212px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
-#u4 {
-  position:absolute;
   left:26px;
   top:198px;
   width:268px;
   height:173px;
 }
-#u4_img {
+#u2_img {
   position:absolute;
   left:0px;
   top:0px;
   width:268px;
   height:173px;
 }
-#u5 {
+#u3 {
   position:absolute;
   left:2px;
   top:78px;

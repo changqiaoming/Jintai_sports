@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"发起出售请求页.html",
-  "generationDate":new Date(1429794605651),
+  "generationDate":new Date(1430066322230.87),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -132,7 +132,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/回应详情页面/u2.png"}},
+            "normal~":"images/发起出售请求页/u4.png"}},
 {
           "id":"73a2567704f644c0ae8e14e92c7ab406",
           "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"品牌介绍页.html",
-  "generationDate":new Date(1429794605924.02),
+  "generationDate":new Date(1430066322529.89),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -30,7 +30,7 @@
 },
     "diagram":{
       "objects":[{
-          "id":"edc00f94514548a2bc54898f20a7fac3",
+          "id":"e13e9990682e4812b5646e88dcf8e330",
           "label":"",
           "type":"imageBox",
           "styleType":"imageBox",
@@ -42,7 +42,7 @@
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"77e1f1c5705f486688a3b6c1ad00e5cb",
+              "id":"3617c49fc53e4f16b70a58c4418590da",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -54,6 +54,41 @@
                   "height":568}},
               "adaptiveStyles":{
 }}],
+          "images":{
+            "normal~":"images/品牌介绍页/u0.png"}},
+{
+          "id":"d5f478267cd4438e942282af7362d3bd",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "opacity":"0",
+            "location":{
+              "x":113,
+              "y":514},
+            "size":{
+              "width":200,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ef6c1f1a4ec344628cd7520852a2d5db",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "opacity":"0",
+                "location":{
+                  "x":113,
+                  "y":514},
+                "size":{
+                  "width":200,
+                  "height":50}},
+              "adaptiveStyles":{
+}}],
           "interactionMap":{
             "onClick":{
               "description":"OnClick",
@@ -62,19 +97,23 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 健身机构",
+                      "description":"在 当前窗口 打开 商户详情页（交易中）",
                       "target":{
                         "targetType":"page",
-                        "url":"健身机构.html",
+                        "url":"商户详情页（交易中）.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/品牌介绍页/u0.png"}}]}},
+            "normal~":"resources/images/transparent.gif"}}]}},
   "masters":{
 },
   "objectPaths":{
-    "edc00f94514548a2bc54898f20a7fac3":{
+    "e13e9990682e4812b5646e88dcf8e330":{
       "scriptId":"u0"},
-    "77e1f1c5705f486688a3b6c1ad00e5cb":{
-      "scriptId":"u1"}}});
+    "3617c49fc53e4f16b70a58c4418590da":{
+      "scriptId":"u1"},
+    "d5f478267cd4438e942282af7362d3bd":{
+      "scriptId":"u2"},
+    "ef6c1f1a4ec344628cd7520852a2d5db":{
+      "scriptId":"u3"}}});

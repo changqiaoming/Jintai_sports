@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"健身机构.html",
-  "generationDate":new Date(1429794605848.02),
+  "generationDate":new Date(1430066322436.88),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1068,10 +1068,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 健身机构",
+                      "description":"在 当前窗口 打开 品牌介绍页",
                       "target":{
                         "targetType":"page",
-                        "url":"健身机构.html",
+                        "url":"品牌介绍页.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

@@ -1,0 +1,80 @@
+﻿$axure.loadCurrentPage({
+  "url":"消息详情.html",
+  "generationDate":new Date(1430066324013.97),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"21e45c13a49248bf843e093c4b730ccb",
+    "type":"Axure:Page",
+    "name":"消息详情",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"a8e3224486a84efca82a89b05bd6a5c1",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":320,
+              "height":568}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"be8ced8b4dec46b4883e290ee0184269",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":320,
+                  "height":568}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 我的消息（已读）",
+                      "target":{
+                        "targetType":"page",
+                        "url":"我的消息（已读）.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/消息详情/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "a8e3224486a84efca82a89b05bd6a5c1":{
+      "scriptId":"u0"},
+    "be8ced8b4dec46b4883e290ee0184269":{
+      "scriptId":"u1"}}});

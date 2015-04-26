@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"商户信息介绍.html",
-  "generationDate":new Date(1429794606191.04),
+  "generationDate":new Date(1430066322826.9),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
