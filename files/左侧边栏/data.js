@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"左侧边栏.html",
-  "generationDate":new Date(1430066321455.83),
+  "generationDate":new Date(1430762528287.54),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

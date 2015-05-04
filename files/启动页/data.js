@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"启动页.html",
-  "generationDate":new Date(1430066320974.8),
+  "generationDate":new Date(1430762527845.51),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -42,7 +42,7 @@
                 "linkType":"current"}]}]}},
     "diagram":{
       "objects":[{
-          "id":"e3d7630fd4ba4275bdc2049bf496ff5e",
+          "id":"e2b4483941d844ab93fb42f8dbedc6e4",
           "label":"",
           "type":"imageBox",
           "styleType":"imageBox",
@@ -50,11 +50,11 @@
           "style":{
             "size":{
               "width":320,
-              "height":568}},
+              "height":548}},
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"f952a68aac4d46098fc9277cf73df4e3",
+              "id":"6cefc177c8ed45ca9ac9761b515e5e94",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -63,7 +63,7 @@
               "style":{
                 "size":{
                   "width":320,
-                  "height":568}},
+                  "height":548}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -366,9 +366,9 @@
   "masters":{
 },
   "objectPaths":{
-    "e3d7630fd4ba4275bdc2049bf496ff5e":{
+    "e2b4483941d844ab93fb42f8dbedc6e4":{
       "scriptId":"u0"},
-    "f952a68aac4d46098fc9277cf73df4e3":{
+    "6cefc177c8ed45ca9ac9761b515e5e94":{
       "scriptId":"u1"},
     "386b912a843f454ca71f559adc7a70e2":{
       "scriptId":"u2"},

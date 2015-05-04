@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"我的劲态（默认关注）.html",
-  "generationDate":new Date(1430066323547.95),
+  "generationDate":new Date(1430762530263.65),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

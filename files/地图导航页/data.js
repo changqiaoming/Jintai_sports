@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"地图导航页.html",
-  "generationDate":new Date(1430066321796.85),
+  "generationDate":new Date(1430762528627.56),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

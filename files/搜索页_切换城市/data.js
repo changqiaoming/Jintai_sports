@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"搜索页_切换城市.html",
-  "generationDate":new Date(1430066321715.84),
+  "generationDate":new Date(1430762528570.56),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -593,7 +593,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/首页/u4.png"}}]}},
+            "normal~":"images/首页/u2.png"}}]}},
   "masters":{
 },
   "objectPaths":{

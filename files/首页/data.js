@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"首页.html",
-  "generationDate":new Date(1430066321556.83),
+  "generationDate":new Date(1430762528401.55),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -69,54 +69,6 @@
           "images":{
             "normal~":"images/首页/u0.png"}},
 {
-          "id":"4fe1e760caa348afb7c58bfee1a2085a",
-          "label":"",
-          "type":"imageBox",
-          "styleType":"imageBox",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":15,
-              "y":36},
-            "size":{
-              "width":22,
-              "height":12}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"c9fc2f373d294b818d3eaac295735678",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":15,
-                  "y":36},
-                "size":{
-                  "width":22,
-                  "height":12}},
-              "adaptiveStyles":{
-}}],
-          "interactionMap":{
-            "onClick":{
-              "description":"OnClick",
-              "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 左侧边栏",
-                      "target":{
-                        "targetType":"page",
-                        "url":"左侧边栏.html",
-                        "includeVariables":true},
-                      "linkType":"current"}]}]}},
-          "tabbable":true,
-          "images":{
-            "normal~":"images/左侧边栏/u2.png"}},
-{
           "id":"13578f64d51f4e1abc13c046a15a1388",
           "label":"",
           "type":"imageBox",
@@ -163,7 +115,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/首页/u4.png"}},
+            "normal~":"images/首页/u2.png"}},
 {
           "id":"31f5e7d6d8764e639bc015753d027ccd",
           "label":"",
@@ -267,7 +219,90 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"resources/images/transparent.gif"}}]}},
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"4a893ffabeac4dd8855f10a0a235b0c2",
+          "label":"边栏切换按钮",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":17,
+              "y":36},
+            "size":{
+              "width":22,
+              "height":12}},
+          "adaptiveStyles":{
+},
+          "scrollbars":"none",
+          "fitToContent":false,
+          "propagate":false,
+          "diagrams":[{
+              "id":"9854e36cb29c4e149814ed88b8d90926",
+              "label":"State1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"9f1facc24f4642f38d8d07eac11a8c6b",
+                  "label":"",
+                  "parentDynamicPanel":"4a893ffabeac4dd8855f10a0a235b0c2",
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":22,
+                      "height":12}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"595cd194005a4f969b5f2847a636d0cc",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"4a893ffabeac4dd8855f10a0a235b0c2",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "size":{
+                          "width":22,
+                          "height":12}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"隐藏 边栏切换按钮,<br>(Image)",
+                              "objectsToFades":[{
+                                  "objectPath":["4a893ffabeac4dd8855f10a0a235b0c2"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "showType":"none"}}},
+{
+                                  "objectPath":["9f1facc24f4642f38d8d07eac11a8c6b"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "showType":"none"}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/左侧边栏/u2.png"}}],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}}]}]}},
   "masters":{
 },
   "objectPaths":{
@@ -275,19 +310,21 @@
       "scriptId":"u0"},
     "799a30ddafaf4a14939e598a442108c4":{
       "scriptId":"u1"},
-    "4fe1e760caa348afb7c58bfee1a2085a":{
-      "scriptId":"u2"},
-    "c9fc2f373d294b818d3eaac295735678":{
-      "scriptId":"u3"},
     "13578f64d51f4e1abc13c046a15a1388":{
-      "scriptId":"u4"},
+      "scriptId":"u2"},
     "e419afe412c1461ab9b802f7c0bb020b":{
-      "scriptId":"u5"},
+      "scriptId":"u3"},
     "31f5e7d6d8764e639bc015753d027ccd":{
-      "scriptId":"u6"},
+      "scriptId":"u4"},
     "532df9c4106b4fbb91fd82da9445fcca":{
-      "scriptId":"u7"},
+      "scriptId":"u5"},
     "00449c80f5c04a5eac1ea93c84c7ef0b":{
-      "scriptId":"u8"},
+      "scriptId":"u6"},
     "afde0094e51d4192b08971609549b371":{
-      "scriptId":"u9"}}});
+      "scriptId":"u7"},
+    "4a893ffabeac4dd8855f10a0a235b0c2":{
+      "scriptId":"u8"},
+    "9f1facc24f4642f38d8d07eac11a8c6b":{
+      "scriptId":"u9"},
+    "595cd194005a4f969b5f2847a636d0cc":{
+      "scriptId":"u10"}}});

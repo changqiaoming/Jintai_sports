@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"微信登录.html",
-  "generationDate":new Date(1430066321212.81),
+  "generationDate":new Date(1430762528050.53),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -30,7 +30,7 @@
 },
     "diagram":{
       "objects":[{
-          "id":"dd18da00ec0e417cb02eeb664aac3614",
+          "id":"79bee1d4d46f4897a8db25c09078c70b",
           "label":"",
           "type":"imageBox",
           "styleType":"imageBox",
@@ -38,11 +38,11 @@
           "style":{
             "size":{
               "width":320,
-              "height":568}},
+              "height":548}},
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"7268d4662fab4e7fb2637fdebecc238c",
+              "id":"50ee6e16eb5e45efa46b81a3ec0dd4d2",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -51,7 +51,7 @@
               "style":{
                 "size":{
                   "width":320,
-                  "height":568}},
+                  "height":548}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -199,9 +199,9 @@
   "masters":{
 },
   "objectPaths":{
-    "dd18da00ec0e417cb02eeb664aac3614":{
+    "79bee1d4d46f4897a8db25c09078c70b":{
       "scriptId":"u0"},
-    "7268d4662fab4e7fb2637fdebecc238c":{
+    "50ee6e16eb5e45efa46b81a3ec0dd4d2":{
       "scriptId":"u1"},
     "6e6adb5c101d445a8ac9af41f7cc7a6a":{
       "scriptId":"u2"},

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"我的劲态（二维码）.html",
-  "generationDate":new Date(1430066323616.95),
+  "generationDate":new Date(1430762530337.66),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
