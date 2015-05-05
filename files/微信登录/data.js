@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"微信登录.html",
-  "generationDate":new Date(1430762528050.53),
+  "generationDate":new Date(1430845023061.35),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -30,33 +30,6 @@
 },
     "diagram":{
       "objects":[{
-          "id":"79bee1d4d46f4897a8db25c09078c70b",
-          "label":"",
-          "type":"imageBox",
-          "styleType":"imageBox",
-          "visible":true,
-          "style":{
-            "size":{
-              "width":320,
-              "height":548}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"50ee6e16eb5e45efa46b81a3ec0dd4d2",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "size":{
-                  "width":320,
-                  "height":548}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"images/微信登录/u0.png"}},
-{
           "id":"6e6adb5c101d445a8ac9af41f7cc7a6a",
           "label":"",
           "type":"buttonShape",
@@ -199,15 +172,11 @@
   "masters":{
 },
   "objectPaths":{
-    "79bee1d4d46f4897a8db25c09078c70b":{
-      "scriptId":"u0"},
-    "50ee6e16eb5e45efa46b81a3ec0dd4d2":{
-      "scriptId":"u1"},
     "6e6adb5c101d445a8ac9af41f7cc7a6a":{
-      "scriptId":"u2"},
+      "scriptId":"u0"},
     "a2e3d68456d74d6b85bd85f2e75cb290":{
-      "scriptId":"u3"},
+      "scriptId":"u1"},
     "6a9a0fa556524fed9992cfcd5ccef9aa":{
-      "scriptId":"u4"},
+      "scriptId":"u2"},
     "b576d3a3b64a463e8642ba878e022416":{
-      "scriptId":"u5"}}});
+      "scriptId":"u3"}}});

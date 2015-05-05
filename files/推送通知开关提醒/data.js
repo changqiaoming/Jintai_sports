@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"推送通知开关提醒.html",
-  "generationDate":new Date(1430762531118.7),
+  "generationDate":new Date(1430845026287.54),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

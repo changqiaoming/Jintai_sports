@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"发起出售请求页.html",
-  "generationDate":new Date(1430762529044.58),
+  "generationDate":new Date(1430845024155.42),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

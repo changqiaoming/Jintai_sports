@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"我的健身数据.html",
-  "generationDate":new Date(1430762530552.67),
+  "generationDate":new Date(1430845025786.51),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"健身机构.html",
-  "generationDate":new Date(1430762529236.59),
+  "generationDate":new Date(1430845024383.43),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

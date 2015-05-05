@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"注册页面.html",
-  "generationDate":new Date(1430762528139.53),
+  "generationDate":new Date(1430845023144.36),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -30,33 +30,6 @@
 },
     "diagram":{
       "objects":[{
-          "id":"091498a5026b4af49719e451356e3bc4",
-          "label":"",
-          "type":"imageBox",
-          "styleType":"imageBox",
-          "visible":true,
-          "style":{
-            "size":{
-              "width":320,
-              "height":548}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"fa62fe4c0d974a129cc30952c3ca945f",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "size":{
-                  "width":320,
-                  "height":548}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"images/注册页面/u0.png"}},
-{
           "id":"6dccf23bef0d482fbaf9a95e8ea5867f",
           "label":"",
           "type":"buttonShape",
@@ -191,7 +164,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/注册页面/u5.png"}}],
+                    "normal~":"images/注册页面/u3.png"}}],
               "style":{
                 "fill":{
                   "fillType":"solid",
@@ -205,17 +178,13 @@
   "masters":{
 },
   "objectPaths":{
-    "091498a5026b4af49719e451356e3bc4":{
-      "scriptId":"u0"},
-    "fa62fe4c0d974a129cc30952c3ca945f":{
-      "scriptId":"u1"},
     "6dccf23bef0d482fbaf9a95e8ea5867f":{
-      "scriptId":"u2"},
+      "scriptId":"u0"},
     "02f93300fc384ec19a13ac90d07c2747":{
-      "scriptId":"u3"},
+      "scriptId":"u1"},
     "9dc50f5b2cf74a00b927caeec23a2ee4":{
-      "scriptId":"u4"},
+      "scriptId":"u2"},
     "1458e550ea564fbf88480540d58a260e":{
-      "scriptId":"u5"},
+      "scriptId":"u3"},
     "8d1d422d684e412e9e2d46eb5234c52b":{
-      "scriptId":"u6"}}});
+      "scriptId":"u4"}}});

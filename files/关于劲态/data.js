@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"关于劲态.html",
-  "generationDate":new Date(1430762531168.7),
+  "generationDate":new Date(1430845026329.54),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
