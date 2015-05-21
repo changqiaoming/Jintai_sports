@@ -1,0 +1,132 @@
+﻿$axure.loadCurrentPage({
+  "url":"支付页面.html",
+  "generationDate":new Date(1432237664305.46),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"fd844c61480c46959764108ec578a958",
+    "type":"Axure:Page",
+    "name":"支付页面",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"e41b0c6909ba4adba130a0fa96bf06a5",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":106,
+              "y":0},
+            "size":{
+              "width":216,
+              "height":548}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"380ac4db16184e8eb00dc8f0ff751621",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":106,
+                  "y":0},
+                "size":{
+                  "width":216,
+                  "height":548}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 买时间",
+                      "target":{
+                        "targetType":"page",
+                        "url":"买时间.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/支付页面/u0.jpg"}},
+{
+          "id":"2b67c15b77924fa7b8e42cc2fa37b153",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":106,
+              "height":548}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"cd30debeb0944e7a9e17e3148e66f8a4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":106,
+                  "height":548}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 买时间",
+                      "target":{
+                        "targetType":"page",
+                        "url":"买时间.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/发起购买请求页/u2.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "e41b0c6909ba4adba130a0fa96bf06a5":{
+      "scriptId":"u0"},
+    "380ac4db16184e8eb00dc8f0ff751621":{
+      "scriptId":"u1"},
+    "2b67c15b77924fa7b8e42cc2fa37b153":{
+      "scriptId":"u2"},
+    "cd30debeb0944e7a9e17e3148e66f8a4":{
+      "scriptId":"u3"}}});

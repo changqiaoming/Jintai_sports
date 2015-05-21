@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"注册页面.html",
-  "generationDate":new Date(1430845023144.36),
+  "generationDate":new Date(1432237663104.39),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -30,6 +30,39 @@
 },
     "diagram":{
       "objects":[{
+          "id":"77fdedca6fca4d0a961ae6d9aac9c699",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":-20},
+            "size":{
+              "width":320,
+              "height":568}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f1417a65d6334a1b9f7b193514aec112",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":0,
+                  "y":-20},
+                "size":{
+                  "width":320,
+                  "height":568}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/注册页面/u0.png"}},
+{
           "id":"6dccf23bef0d482fbaf9a95e8ea5867f",
           "label":"",
           "type":"buttonShape",
@@ -44,7 +77,7 @@
             "opacity":"0",
             "location":{
               "x":8,
-              "y":31},
+              "y":11},
             "size":{
               "width":72,
               "height":39},
@@ -71,7 +104,7 @@
                 "opacity":"0",
                 "location":{
                   "x":8,
-                  "y":31},
+                  "y":11},
                 "size":{
                   "width":72,
                   "height":39},
@@ -108,7 +141,7 @@
           "style":{
             "location":{
               "x":27,
-              "y":90},
+              "y":70},
             "size":{
               "width":266,
               "height":139}},
@@ -164,7 +197,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/注册页面/u3.png"}}],
+                    "normal~":"images/注册页面/u5.png"}}],
               "style":{
                 "fill":{
                   "fillType":"solid",
@@ -178,13 +211,17 @@
   "masters":{
 },
   "objectPaths":{
-    "6dccf23bef0d482fbaf9a95e8ea5867f":{
+    "77fdedca6fca4d0a961ae6d9aac9c699":{
       "scriptId":"u0"},
-    "02f93300fc384ec19a13ac90d07c2747":{
+    "f1417a65d6334a1b9f7b193514aec112":{
       "scriptId":"u1"},
-    "9dc50f5b2cf74a00b927caeec23a2ee4":{
+    "6dccf23bef0d482fbaf9a95e8ea5867f":{
       "scriptId":"u2"},
-    "1458e550ea564fbf88480540d58a260e":{
+    "02f93300fc384ec19a13ac90d07c2747":{
       "scriptId":"u3"},
+    "9dc50f5b2cf74a00b927caeec23a2ee4":{
+      "scriptId":"u4"},
+    "1458e550ea564fbf88480540d58a260e":{
+      "scriptId":"u5"},
     "8d1d422d684e412e9e2d46eb5234c52b":{
-      "scriptId":"u4"}}});
+      "scriptId":"u6"}}});

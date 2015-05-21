@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"微信登录.html",
-  "generationDate":new Date(1430845023061.35),
+  "generationDate":new Date(1432237663046.39),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -30,6 +30,39 @@
 },
     "diagram":{
       "objects":[{
+          "id":"dd18da00ec0e417cb02eeb664aac3614",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":-20},
+            "size":{
+              "width":320,
+              "height":568}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7268d4662fab4e7fb2637fdebecc238c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":0,
+                  "y":-20},
+                "size":{
+                  "width":320,
+                  "height":568}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/微信登录/u0.png"}},
+{
           "id":"6e6adb5c101d445a8ac9af41f7cc7a6a",
           "label":"",
           "type":"buttonShape",
@@ -44,7 +77,7 @@
             "opacity":"0",
             "location":{
               "x":8,
-              "y":31},
+              "y":11},
             "size":{
               "width":72,
               "height":39},
@@ -71,7 +104,7 @@
                 "opacity":"0",
                 "location":{
                   "x":8,
-                  "y":31},
+                  "y":11},
                 "size":{
                   "width":72,
                   "height":39},
@@ -114,7 +147,7 @@
             "opacity":"0",
             "location":{
               "x":20,
-              "y":318},
+              "y":298},
             "size":{
               "width":280,
               "height":39},
@@ -141,7 +174,7 @@
                 "opacity":"0",
                 "location":{
                   "x":20,
-                  "y":318},
+                  "y":298},
                 "size":{
                   "width":280,
                   "height":39},
@@ -172,11 +205,15 @@
   "masters":{
 },
   "objectPaths":{
-    "6e6adb5c101d445a8ac9af41f7cc7a6a":{
+    "dd18da00ec0e417cb02eeb664aac3614":{
       "scriptId":"u0"},
-    "a2e3d68456d74d6b85bd85f2e75cb290":{
+    "7268d4662fab4e7fb2637fdebecc238c":{
       "scriptId":"u1"},
-    "6a9a0fa556524fed9992cfcd5ccef9aa":{
+    "6e6adb5c101d445a8ac9af41f7cc7a6a":{
       "scriptId":"u2"},
+    "a2e3d68456d74d6b85bd85f2e75cb290":{
+      "scriptId":"u3"},
+    "6a9a0fa556524fed9992cfcd5ccef9aa":{
+      "scriptId":"u4"},
     "b576d3a3b64a463e8642ba878e022416":{
-      "scriptId":"u3"}}});
+      "scriptId":"u5"}}});

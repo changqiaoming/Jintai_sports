@@ -1,0 +1,80 @@
+﻿$axure.loadCurrentPage({
+  "url":"确认售出页.html",
+  "generationDate":new Date(1432237664780.49),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"c4081039ccde4b859c11ebbc6e7a67fb",
+    "type":"Axure:Page",
+    "name":"确认售出页",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"9238a95ee9084de98d50bde6ea3096ff",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":320,
+              "height":548}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"758725284a2b415b9544c27ed0fde583",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":320,
+                  "height":548}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 卖时间",
+                      "target":{
+                        "targetType":"page",
+                        "url":"卖时间.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/确认售出页/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "9238a95ee9084de98d50bde6ea3096ff":{
+      "scriptId":"u0"},
+    "758725284a2b415b9544c27ed0fde583":{
+      "scriptId":"u1"}}});

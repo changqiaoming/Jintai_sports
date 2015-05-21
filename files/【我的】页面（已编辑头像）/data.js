@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"【我的】页面（已编辑头像）.html",
-  "generationDate":new Date(1430845025385.49),
+  "generationDate":new Date(1432237666786.6),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -48,6 +48,9 @@
           "styleType":"imageBox",
           "visible":true,
           "style":{
+            "location":{
+              "x":0,
+              "y":-20},
             "size":{
               "width":320,
               "height":568}},
@@ -61,6 +64,9 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
+                "location":{
+                  "x":0,
+                  "y":-20},
                 "size":{
                   "width":320,
                   "height":568}},
@@ -68,54 +74,6 @@
 }}],
           "images":{
             "normal~":"images/【我的】页面（新注册）/u0.png"}},
-{
-          "id":"d85ac962197d4874ab626819dfec1380",
-          "label":"",
-          "type":"imageBox",
-          "styleType":"imageBox",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":109,
-              "y":89},
-            "size":{
-              "width":102,
-              "height":101}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"06715cbdac1b400f989c2b24a8accfb1",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":109,
-                  "y":89},
-                "size":{
-                  "width":102,
-                  "height":101}},
-              "adaptiveStyles":{
-}}],
-          "interactionMap":{
-            "onClick":{
-              "description":"OnClick",
-              "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 编辑头像页",
-                      "target":{
-                        "targetType":"page",
-                        "url":"编辑头像页.html",
-                        "includeVariables":true},
-                      "linkType":"current"}]}]}},
-          "tabbable":true,
-          "images":{
-            "normal~":"images/【我的】页面（新注册）/u2.png"}},
 {
           "id":"e76de90fd61644dcab6dad84c6fcf005",
           "label":"",
@@ -131,7 +89,7 @@
             "opacity":"0",
             "location":{
               "x":8,
-              "y":31},
+              "y":11},
             "size":{
               "width":72,
               "height":39},
@@ -158,7 +116,7 @@
                 "opacity":"0",
                 "location":{
                   "x":8,
-                  "y":31},
+                  "y":11},
                 "size":{
                   "width":72,
                   "height":39},
@@ -201,7 +159,7 @@
             "opacity":"0",
             "location":{
               "x":8,
-              "y":523},
+              "y":503},
             "size":{
               "width":302,
               "height":39},
@@ -228,7 +186,7 @@
                 "opacity":"0",
                 "location":{
                   "x":8,
-                  "y":523},
+                  "y":503},
                 "size":{
                   "width":302,
                   "height":39},
@@ -257,22 +215,22 @@
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"3503b354148f4dbcba0dbeaab1e7e67b",
+          "id":"536e21fb2c39406e8a3b8d1f3471dca4",
           "label":"",
           "type":"imageBox",
           "styleType":"imageBox",
           "visible":true,
           "style":{
             "location":{
-              "x":72,
-              "y":77},
+              "x":106,
+              "y":65},
             "size":{
-              "width":175,
-              "height":175}},
+              "width":107,
+              "height":105}},
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"b6285ef41dde46d294a638ace0737a9a",
+              "id":"5d9c1dafb0854f6793400e902157b3ad",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -280,15 +238,30 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":72,
-                  "y":77},
+                  "x":106,
+                  "y":65},
                 "size":{
-                  "width":175,
-                  "height":175}},
+                  "width":107,
+                  "height":105}},
               "adaptiveStyles":{
 }}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 编辑头像页",
+                      "target":{
+                        "targetType":"page",
+                        "url":"编辑头像页.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
           "images":{
-            "normal~":"images/【我的】页面（已编辑头像）/u8.png"}}]}},
+            "normal~":"images/左侧边栏/u16.png"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -296,19 +269,15 @@
       "scriptId":"u0"},
     "eef9e5df46424126b3fada27876e6b27":{
       "scriptId":"u1"},
-    "d85ac962197d4874ab626819dfec1380":{
-      "scriptId":"u2"},
-    "06715cbdac1b400f989c2b24a8accfb1":{
-      "scriptId":"u3"},
     "e76de90fd61644dcab6dad84c6fcf005":{
-      "scriptId":"u4"},
+      "scriptId":"u2"},
     "0c8b5ba186e24128bf3c4a0dcb0f5ee3":{
-      "scriptId":"u5"},
+      "scriptId":"u3"},
     "00efd4b0aba04e80acb1e291db8cc30b":{
-      "scriptId":"u6"},
+      "scriptId":"u4"},
     "a0281698cc9a457aa76e3b56e904cb1a":{
-      "scriptId":"u7"},
-    "3503b354148f4dbcba0dbeaab1e7e67b":{
-      "scriptId":"u8"},
-    "b6285ef41dde46d294a638ace0737a9a":{
-      "scriptId":"u9"}}});
+      "scriptId":"u5"},
+    "536e21fb2c39406e8a3b8d1f3471dca4":{
+      "scriptId":"u6"},
+    "5d9c1dafb0854f6793400e902157b3ad":{
+      "scriptId":"u7"}}});

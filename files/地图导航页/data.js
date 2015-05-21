@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"地图导航页.html",
-  "generationDate":new Date(1430845023696.39),
+  "generationDate":new Date(1432237663649.42),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -36,6 +36,9 @@
           "styleType":"imageBox",
           "visible":true,
           "style":{
+            "location":{
+              "x":0,
+              "y":-20},
             "size":{
               "width":320,
               "height":568}},
@@ -49,6 +52,9 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
+                "location":{
+                  "x":0,
+                  "y":-20},
                 "size":{
                   "width":320,
                   "height":568}},
@@ -65,7 +71,7 @@
           "style":{
             "location":{
               "x":15,
-              "y":500},
+              "y":480},
             "size":{
               "width":55,
               "height":55}},
@@ -81,7 +87,7 @@
               "style":{
                 "location":{
                   "x":15,
-                  "y":500},
+                  "y":480},
                 "size":{
                   "width":55,
                   "height":55}},
@@ -104,7 +110,7 @@
               "fillType":"solid",
               "color":0xFFCCCCCC},
             "location":{
-              "x":18,
+              "x":21.5,
               "y":26},
             "size":{
               "width":42,
@@ -131,7 +137,7 @@
                   "fillType":"solid",
                   "color":0xFFCCCCCC},
                 "location":{
-                  "x":18,
+                  "x":21.5,
                   "y":26},
                 "size":{
                   "width":42,

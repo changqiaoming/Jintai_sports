@@ -61,9 +61,13 @@
                     "type":"Wireframe",
                     "url":"购买需求确认模板页面.html",
                     "children":[{
-                        "pageName":"购买请求确认页",
+                        "pageName":"订单详情页",
                         "type":"Wireframe",
-                        "url":"购买请求确认页.html"}]}]},
+                        "url":"订单详情页.html"},
+{
+                        "pageName":"支付页面",
+                        "type":"Wireframe",
+                        "url":"支付页面.html"}]}]},
 {
                 "pageName":"卖时间",
                 "type":"Wireframe",
@@ -71,19 +75,19 @@
                 "children":[{
                     "pageName":"回应详情页面",
                     "type":"Wireframe",
-                    "url":"回应详情页面.html",
-                    "children":[{
-                        "pageName":"回应求购信息页",
-                        "type":"Wireframe",
-                        "url":"回应求购信息页.html"}]},
+                    "url":"回应详情页面.html"},
 {
                     "pageName":"发起出售请求页",
                     "type":"Wireframe",
                     "url":"发起出售请求页.html",
                     "children":[{
-                        "pageName":"出售请求确认页",
+                        "pageName":"出售详情页",
                         "type":"Wireframe",
-                        "url":"出售请求确认页.html"}]}]},
+                        "url":"出售详情页.html"},
+{
+                        "pageName":"确认售出页",
+                        "type":"Wireframe",
+                        "url":"确认售出页.html"}]}]},
 {
                 "pageName":"健身机构",
                 "type":"Wireframe",
@@ -91,39 +95,39 @@
                 "children":[{
                     "pageName":"品牌介绍页",
                     "type":"Wireframe",
-                    "url":"品牌介绍页.html"}]},
+                    "url":"品牌介绍页.html"}]}]},
 {
-                "pageName":"商户详情页（交易中）",
+            "pageName":"商户详情页（交易中）",
+            "type":"Wireframe",
+            "url":"商户详情页（交易中）.html",
+            "children":[{
+                "pageName":"促销优惠信息",
                 "type":"Wireframe",
-                "url":"商户详情页（交易中）.html",
-                "children":[{
-                    "pageName":"促销优惠信息",
-                    "type":"Wireframe",
-                    "url":"促销优惠信息.html"},
+                "url":"促销优惠信息.html"},
 {
-                    "pageName":"商户信息介绍",
-                    "type":"Wireframe",
-                    "url":"商户信息介绍.html"},
+                "pageName":"商户信息介绍",
+                "type":"Wireframe",
+                "url":"商户信息介绍.html"},
 {
-                    "pageName":"课程页面",
-                    "type":"Wireframe",
-                    "url":"课程页面.html"},
+                "pageName":"课程页面",
+                "type":"Wireframe",
+                "url":"课程页面.html"},
 {
-                    "pageName":"通知页面",
-                    "type":"Wireframe",
-                    "url":"通知页面.html"},
+                "pageName":"通知页面",
+                "type":"Wireframe",
+                "url":"通知页面.html"},
 {
-                    "pageName":"评价页面",
-                    "type":"Wireframe",
-                    "url":"评价页面.html"},
+                "pageName":"评价页面",
+                "type":"Wireframe",
+                "url":"评价页面.html"},
 {
-                    "pageName":"（交易记录）",
-                    "type":"Wireframe",
-                    "url":"（交易记录）.html"},
+                "pageName":"（交易记录）",
+                "type":"Wireframe",
+                "url":"（交易记录）.html"},
 {
-                    "pageName":"（已过期）",
-                    "type":"Wireframe",
-                    "url":"（已过期）.html"}]}]},
+                "pageName":"（已过期）",
+                "type":"Wireframe",
+                "url":"（已过期）.html"}]},
 {
             "pageName":"【我的】页面（新注册）",
             "type":"Wireframe",
@@ -200,10 +204,6 @@
                 "pageName":"版本更新",
                 "type":"Wireframe",
                 "url":"版本更新.html"},
-{
-                "pageName":"清除缓存",
-                "type":"Wireframe",
-                "url":"清除缓存.html"},
 {
                 "pageName":"帮助",
                 "type":"Wireframe",

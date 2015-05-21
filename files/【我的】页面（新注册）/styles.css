@@ -15,7 +15,7 @@
 #u0 {
   position:absolute;
   left:0px;
-  top:0px;
+  top:-20px;
   width:320px;
   height:568px;
 }
@@ -37,7 +37,7 @@
 #u2 {
   position:absolute;
   left:109px;
-  top:89px;
+  top:69px;
   width:102px;
   height:101px;
 }
@@ -59,7 +59,7 @@
 #u4 {
   position:absolute;
   left:8px;
-  top:31px;
+  top:11px;
   width:72px;
   height:39px;
   opacity:0;
@@ -84,7 +84,7 @@
 #u6 {
   position:absolute;
   left:8px;
-  top:523px;
+  top:503px;
   width:302px;
   height:39px;
   opacity:0;

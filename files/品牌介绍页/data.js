@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"品牌介绍页.html",
-  "generationDate":new Date(1430845024474.43),
+  "generationDate":new Date(1432237665095.51),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -30,63 +30,158 @@
 },
     "diagram":{
       "objects":[{
-          "id":"e13e9990682e4812b5646e88dcf8e330",
+          "id":"650d51671a0d4d3a8702c35efa23e64d",
           "label":"",
           "type":"imageBox",
           "styleType":"imageBox",
           "visible":true,
           "style":{
+            "location":{
+              "x":103,
+              "y":0},
             "size":{
-              "width":320,
-              "height":568}},
+              "width":208,
+              "height":548}},
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"3617c49fc53e4f16b70a58c4418590da",
+              "id":"1e102376c06240519781f997f19147d5",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
               "styleType":"paragraph",
               "visible":true,
               "style":{
+                "location":{
+                  "x":103,
+                  "y":0},
                 "size":{
-                  "width":320,
-                  "height":568}},
+                  "width":208,
+                  "height":548}},
               "adaptiveStyles":{
 }}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 健身机构",
+                      "target":{
+                        "targetType":"page",
+                        "url":"健身机构.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
           "images":{
-            "normal~":"images/品牌介绍页/u0.png"}},
+            "normal~":"images/品牌介绍页/u0.jpg"}},
 {
-          "id":"d5f478267cd4438e942282af7362d3bd",
+          "id":"59520357ec4f46719ead85ae9550d270",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"11px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF6FCEB6,
+              "opacity":1},
+            "location":{
+              "x":116,
+              "y":154},
+            "size":{
+              "width":180,
+              "height":166}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"bb7cfe0a6ea3482e8ab7c166c8fd96d6",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"11px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF6FCEB6,
+                  "opacity":1},
+                "location":{
+                  "x":116,
+                  "y":154},
+                "size":{
+                  "width":180,
+                  "height":166}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 健身机构",
+                      "target":{
+                        "targetType":"page",
+                        "url":"健身机构.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"0a059230ac7342deae635b5477ed1442",
           "label":"",
           "type":"buttonShape",
           "styleType":"buttonShape",
           "visible":true,
           "style":{
-            "opacity":"0",
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontSize":"24px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF78914},
             "location":{
-              "x":113,
-              "y":514},
+              "x":107,
+              "y":488},
             "size":{
               "width":200,
-              "height":50}},
+              "height":58}},
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"ef6c1f1a4ec344628cd7520852a2d5db",
+              "id":"381a806053b74e2797507e00209e71c1",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "opacity":"0",
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"24px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF78914},
                 "location":{
-                  "x":113,
-                  "y":514},
+                  "x":107,
+                  "y":488},
                 "size":{
                   "width":200,
-                  "height":50}},
+                  "height":58}},
               "adaptiveStyles":{
 }}],
           "interactionMap":{
@@ -105,15 +200,212 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"resources/images/transparent.gif"}}]}},
+            "normal~":"images/品牌介绍页/u4.png"}},
+{
+          "id":"e8cdba4cc61f40e4bdfe6711823040f8",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"16px",
+            "horizontalAlignment":"center",
+            "verticalAlignment":"middle",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC,
+              "opacity":1},
+            "location":{
+              "x":168,
+              "y":19},
+            "size":{
+              "width":76,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6b052dca5293449f92376911bd5a9e3d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC,
+                  "opacity":1},
+                "location":{
+                  "x":168,
+                  "y":19},
+                "size":{
+                  "width":76,
+                  "height":19}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"5b459ecf69d0487484377678f323a086",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontSize":"11px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC,
+              "opacity":1},
+            "location":{
+              "x":180,
+              "y":111},
+            "size":{
+              "width":124,
+              "height":32}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"01a96fa0a2d54945b9711afb92cb90b1",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"11px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC,
+                  "opacity":1},
+                "location":{
+                  "x":180,
+                  "y":111},
+                "size":{
+                  "width":124,
+                  "height":32}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"a1306197340a41f8890644f4946512d6",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF6FCEB6,
+              "opacity":1},
+            "location":{
+              "x":163,
+              "y":64},
+            "size":{
+              "width":155,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"20951709833f4e179c4037b55340c80a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF6FCEB6,
+                  "opacity":1},
+                "location":{
+                  "x":163,
+                  "y":64},
+                "size":{
+                  "width":155,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"816f71a913114f498b1ba4decfdb62a6",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":103,
+              "height":548}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6be78823abe34e319b622385363a60e5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":103,
+                  "height":548}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 健身机构",
+                      "target":{
+                        "targetType":"page",
+                        "url":"健身机构.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/品牌介绍页/u12.png"}}]}},
   "masters":{
 },
   "objectPaths":{
-    "e13e9990682e4812b5646e88dcf8e330":{
+    "650d51671a0d4d3a8702c35efa23e64d":{
       "scriptId":"u0"},
-    "3617c49fc53e4f16b70a58c4418590da":{
+    "1e102376c06240519781f997f19147d5":{
       "scriptId":"u1"},
-    "d5f478267cd4438e942282af7362d3bd":{
+    "59520357ec4f46719ead85ae9550d270":{
       "scriptId":"u2"},
-    "ef6c1f1a4ec344628cd7520852a2d5db":{
-      "scriptId":"u3"}}});
+    "bb7cfe0a6ea3482e8ab7c166c8fd96d6":{
+      "scriptId":"u3"},
+    "0a059230ac7342deae635b5477ed1442":{
+      "scriptId":"u4"},
+    "381a806053b74e2797507e00209e71c1":{
+      "scriptId":"u5"},
+    "e8cdba4cc61f40e4bdfe6711823040f8":{
+      "scriptId":"u6"},
+    "6b052dca5293449f92376911bd5a9e3d":{
+      "scriptId":"u7"},
+    "5b459ecf69d0487484377678f323a086":{
+      "scriptId":"u8"},
+    "01a96fa0a2d54945b9711afb92cb90b1":{
+      "scriptId":"u9"},
+    "a1306197340a41f8890644f4946512d6":{
+      "scriptId":"u10"},
+    "20951709833f4e179c4037b55340c80a":{
+      "scriptId":"u11"},
+    "816f71a913114f498b1ba4decfdb62a6":{
+      "scriptId":"u12"},
+    "6be78823abe34e319b622385363a60e5":{
+      "scriptId":"u13"}}});

@@ -15,7 +15,7 @@
 #u0 {
   position:absolute;
   left:0px;
-  top:0px;
+  top:-20px;
   width:320px;
   height:568px;
 }
@@ -36,31 +36,34 @@
 }
 #u2 {
   position:absolute;
-  left:109px;
-  top:89px;
-  width:102px;
-  height:101px;
+  left:8px;
+  top:11px;
+  width:72px;
+  height:39px;
+  opacity:0;
+  font-size:17px;
+  color:#FFFFFF;
 }
 #u2_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:102px;
-  height:101px;
+  width:72px;
+  height:39px;
 }
 #u3 {
   position:absolute;
   left:2px;
-  top:42px;
-  width:98px;
+  top:12px;
+  width:68px;
   visibility:hidden;
   word-wrap:break-word;
 }
 #u4 {
   position:absolute;
   left:8px;
-  top:31px;
-  width:72px;
+  top:503px;
+  width:302px;
   height:39px;
   opacity:0;
   font-size:17px;
@@ -70,35 +73,10 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:72px;
+  width:302px;
   height:39px;
 }
 #u5 {
-  position:absolute;
-  left:2px;
-  top:12px;
-  width:68px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
-#u6 {
-  position:absolute;
-  left:8px;
-  top:523px;
-  width:302px;
-  height:39px;
-  opacity:0;
-  font-size:17px;
-  color:#FFFFFF;
-}
-#u6_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:302px;
-  height:39px;
-}
-#u7 {
   position:absolute;
   left:2px;
   top:12px;
@@ -106,25 +84,25 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u8 {
+#u6 {
   position:absolute;
-  left:72px;
-  top:77px;
-  width:175px;
-  height:175px;
+  left:106px;
+  top:65px;
+  width:107px;
+  height:105px;
 }
-#u8_img {
+#u6_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:175px;
-  height:175px;
+  width:107px;
+  height:105px;
 }
-#u9 {
+#u7 {
   position:absolute;
   left:2px;
-  top:80px;
-  width:171px;
+  top:44px;
+  width:103px;
   visibility:hidden;
   word-wrap:break-word;
 }

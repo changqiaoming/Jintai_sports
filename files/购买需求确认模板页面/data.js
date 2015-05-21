@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"购买需求确认模板页面.html",
-  "generationDate":new Date(1430845023888.4),
+  "generationDate":new Date(1432237664209.45),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -36,6 +36,9 @@
           "styleType":"imageBox",
           "visible":true,
           "style":{
+            "location":{
+              "x":0,
+              "y":-20},
             "size":{
               "width":320,
               "height":568}},
@@ -49,6 +52,9 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
+                "location":{
+                  "x":0,
+                  "y":-20},
                 "size":{
                   "width":320,
                   "height":568}},
@@ -66,7 +72,7 @@
             "opacity":"0",
             "location":{
               "x":237,
-              "y":458},
+              "y":438},
             "size":{
               "width":83,
               "height":48}},
@@ -83,7 +89,7 @@
                 "opacity":"0",
                 "location":{
                   "x":237,
-                  "y":458},
+                  "y":438},
                 "size":{
                   "width":83,
                   "height":48}},
@@ -97,10 +103,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 购买请求确认页",
+                      "description":"在 当前窗口 打开 订单详情页",
                       "target":{
                         "targetType":"page",
-                        "url":"购买请求确认页.html",
+                        "url":"订单详情页.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -116,7 +122,7 @@
             "opacity":"0",
             "location":{
               "x":237,
-              "y":514},
+              "y":494},
             "size":{
               "width":80,
               "height":50}},
@@ -133,7 +139,7 @@
                 "opacity":"0",
                 "location":{
                   "x":237,
-                  "y":514},
+                  "y":494},
                 "size":{
                   "width":80,
                   "height":50}},

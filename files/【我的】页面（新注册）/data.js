@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"【我的】页面（新注册）.html",
-  "generationDate":new Date(1430845025256.48),
+  "generationDate":new Date(1432237666634.59),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -48,6 +48,9 @@
           "styleType":"imageBox",
           "visible":true,
           "style":{
+            "location":{
+              "x":0,
+              "y":-20},
             "size":{
               "width":320,
               "height":568}},
@@ -61,6 +64,9 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
+                "location":{
+                  "x":0,
+                  "y":-20},
                 "size":{
                   "width":320,
                   "height":568}},
@@ -77,7 +83,7 @@
           "style":{
             "location":{
               "x":109,
-              "y":89},
+              "y":69},
             "size":{
               "width":102,
               "height":101}},
@@ -93,7 +99,7 @@
               "style":{
                 "location":{
                   "x":109,
-                  "y":89},
+                  "y":69},
                 "size":{
                   "width":102,
                   "height":101}},
@@ -131,7 +137,7 @@
             "opacity":"0",
             "location":{
               "x":8,
-              "y":31},
+              "y":11},
             "size":{
               "width":72,
               "height":39},
@@ -158,7 +164,7 @@
                 "opacity":"0",
                 "location":{
                   "x":8,
-                  "y":31},
+                  "y":11},
                 "size":{
                   "width":72,
                   "height":39},
@@ -201,7 +207,7 @@
             "opacity":"0",
             "location":{
               "x":8,
-              "y":523},
+              "y":503},
             "size":{
               "width":302,
               "height":39},
@@ -228,7 +234,7 @@
                 "opacity":"0",
                 "location":{
                   "x":8,
-                  "y":523},
+                  "y":503},
                 "size":{
                   "width":302,
                   "height":39},

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"回应详情页面.html",
-  "generationDate":new Date(1430845024061.41),
+  "generationDate":new Date(1432237664542.47),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -36,6 +36,9 @@
           "styleType":"imageBox",
           "visible":true,
           "style":{
+            "location":{
+              "x":0,
+              "y":-20},
             "size":{
               "width":320,
               "height":568}},
@@ -49,6 +52,9 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
+                "location":{
+                  "x":0,
+                  "y":-20},
                 "size":{
                   "width":320,
                   "height":568}},
@@ -57,34 +63,48 @@
           "images":{
             "normal~":"images/回应详情页面/u0.png"}},
 {
-          "id":"252ab60c5cbf47fa8b995900fd4f40b3",
+          "id":"01a50086416a4445af63b5b1d3b4ea05",
           "label":"",
-          "type":"imageBox",
-          "styleType":"imageBox",
+          "type":"buttonShape",
+          "styleType":"paragraph",
           "visible":true,
           "style":{
+            "fontSize":"16px",
+            "horizontalAlignment":"center",
+            "verticalAlignment":"middle",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
             "location":{
-              "x":26,
-              "y":197.5},
+              "x":112,
+              "y":460},
             "size":{
-              "width":268,
-              "height":173}},
+              "width":200,
+              "height":36}},
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"8aa8aa6533b14194835cc5ede6663ba3",
+              "id":"75d1af43041941828c7cdae55f14b50f",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
               "styleType":"paragraph",
               "visible":true,
               "style":{
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
                 "location":{
-                  "x":26,
-                  "y":197.5},
+                  "x":112,
+                  "y":460},
                 "size":{
-                  "width":268,
-                  "height":173}},
+                  "width":200,
+                  "height":36}},
               "adaptiveStyles":{
 }}],
           "interactionMap":{
@@ -94,16 +114,101 @@
                   "description":"用例 1",
                   "isNewIfGroup":false,
                   "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 回应求购信息页",
-                      "target":{
-                        "targetType":"page",
-                        "url":"回应求购信息页.html",
-                        "includeVariables":true},
-                      "linkType":"current"}]}]}},
+                      "action":"fadeWidget",
+                      "description":"显示 回应弹框,<br>(Image)",
+                      "objectsToFades":[{
+                          "objectPath":["1d562193e883413e9f8a013dff87bce1"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "showType":"none"}}},
+{
+                          "objectPath":["5363579aadad4056b77717adcc199fdc"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "showType":"none"}}}]}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/回应详情页面/u2.png"}}]}},
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"1d562193e883413e9f8a013dff87bce1",
+          "label":"回应弹框",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":26,
+              "y":177.5},
+            "size":{
+              "width":268,
+              "height":173}},
+          "adaptiveStyles":{
+},
+          "scrollbars":"none",
+          "fitToContent":false,
+          "propagate":false,
+          "diagrams":[{
+              "id":"ea20ff001bb84095be51e3764906ed5b",
+              "label":"State1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"5363579aadad4056b77717adcc199fdc",
+                  "label":"",
+                  "parentDynamicPanel":"1d562193e883413e9f8a013dff87bce1",
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":false,
+                  "style":{
+                    "size":{
+                      "width":268,
+                      "height":173},
+                    "visible":false},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"d077fc50f01a4a518e23c6ae5db66246",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"1d562193e883413e9f8a013dff87bce1",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":false,
+                      "style":{
+                        "size":{
+                          "width":268,
+                          "height":173},
+                        "visible":false},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 卖时间",
+                              "target":{
+                                "targetType":"page",
+                                "url":"卖时间.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/回应详情页面/u5.png"}}],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}}]}]}},
   "masters":{
 },
   "objectPaths":{
@@ -111,7 +216,13 @@
       "scriptId":"u0"},
     "b0abf712d46843bb81b3069ade94d579":{
       "scriptId":"u1"},
-    "252ab60c5cbf47fa8b995900fd4f40b3":{
+    "01a50086416a4445af63b5b1d3b4ea05":{
       "scriptId":"u2"},
-    "8aa8aa6533b14194835cc5ede6663ba3":{
-      "scriptId":"u3"}}});
+    "75d1af43041941828c7cdae55f14b50f":{
+      "scriptId":"u3"},
+    "1d562193e883413e9f8a013dff87bce1":{
+      "scriptId":"u4"},
+    "5363579aadad4056b77717adcc199fdc":{
+      "scriptId":"u5"},
+    "d077fc50f01a4a518e23c6ae5db66246":{
+      "scriptId":"u6"}}});
