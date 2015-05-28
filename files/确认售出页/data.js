@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"确认售出页.html",
-  "generationDate":new Date(1432237664780.49),
+  "generationDate":new Date(1432847388144.24),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -30,7 +30,7 @@
 },
     "diagram":{
       "objects":[{
-          "id":"9238a95ee9084de98d50bde6ea3096ff",
+          "id":"64e5a359a8584e698e602bff413d9790",
           "label":"",
           "type":"imageBox",
           "styleType":"imageBox",
@@ -42,7 +42,7 @@
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"758725284a2b415b9544c27ed0fde583",
+              "id":"dcb7c6c8c0264da8b2c199e112b1e66a",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -62,10 +62,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 卖时间",
+                      "description":"在 当前窗口 打开 付款说明",
                       "target":{
                         "targetType":"page",
-                        "url":"卖时间.html",
+                        "url":"付款说明.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -74,7 +74,7 @@
   "masters":{
 },
   "objectPaths":{
-    "9238a95ee9084de98d50bde6ea3096ff":{
+    "64e5a359a8584e698e602bff413d9790":{
       "scriptId":"u0"},
-    "758725284a2b415b9544c27ed0fde583":{
+    "dcb7c6c8c0264da8b2c199e112b1e66a":{
       "scriptId":"u1"}}});

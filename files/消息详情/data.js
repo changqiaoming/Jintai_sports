@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"消息详情.html",
-  "generationDate":new Date(1432237667825.66),
+  "generationDate":new Date(1432847391321.42),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -70,7 +70,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/我的健身数据/u0.png"}},
+            "normal~":"images/通知详情/u0.png"}},
 {
           "id":"db3c607d33474966898c0603523ce053",
           "label":"",
@@ -118,7 +118,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/消息详情/u2.jpg"}},
+            "normal~":"images/通知详情/u2.jpg"}},
 {
           "id":"3aedfaaf9f9b4367a6d02bfc930a4385",
           "label":"",

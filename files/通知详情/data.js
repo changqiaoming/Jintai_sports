@@ -1,0 +1,235 @@
+﻿$axure.loadCurrentPage({
+  "url":"通知详情.html",
+  "generationDate":new Date(1432847389442.31),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"f3bfbf73cba8495fa5d8661cd7d6d368",
+    "type":"Axure:Page",
+    "name":"通知详情",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"573cffff2d52461c88c1e832d7878956",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":104,
+              "height":548}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7ba4d92363144de19a04340909487ab5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":104,
+                  "height":548}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 通知页面",
+                      "target":{
+                        "targetType":"page",
+                        "url":"通知页面.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/通知详情/u0.png"}},
+{
+          "id":"cc9b4f539d914beda4d3047f1a9da43b",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":103,
+              "y":0},
+            "size":{
+              "width":208,
+              "height":548}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5e9860ce96054e9bb9882ddf89cb0ffb",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":103,
+                  "y":0},
+                "size":{
+                  "width":208,
+                  "height":548}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 通知页面",
+                      "target":{
+                        "targetType":"page",
+                        "url":"通知页面.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/通知详情/u2.jpg"}},
+{
+          "id":"28e1bbda93f944f69e33edbd3c5df332",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":117,
+              "y":66},
+            "size":{
+              "width":180,
+              "height":130}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2e06fa0215ee4706a5f47af555d26898",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":117,
+                  "y":66},
+                "size":{
+                  "width":180,
+                  "height":130}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 通知页面",
+                      "target":{
+                        "targetType":"page",
+                        "url":"通知页面.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"b8c4c038531549edb08f4631408b0a3c",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"16px",
+            "horizontalAlignment":"center",
+            "verticalAlignment":"middle",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC,
+              "opacity":1},
+            "location":{
+              "x":168,
+              "y":19},
+            "size":{
+              "width":76,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f8f8894626f1431a9408ddff6eb6e962",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC,
+                  "opacity":1},
+                "location":{
+                  "x":168,
+                  "y":19},
+                "size":{
+                  "width":76,
+                  "height":19}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "573cffff2d52461c88c1e832d7878956":{
+      "scriptId":"u0"},
+    "7ba4d92363144de19a04340909487ab5":{
+      "scriptId":"u1"},
+    "cc9b4f539d914beda4d3047f1a9da43b":{
+      "scriptId":"u2"},
+    "5e9860ce96054e9bb9882ddf89cb0ffb":{
+      "scriptId":"u3"},
+    "28e1bbda93f944f69e33edbd3c5df332":{
+      "scriptId":"u4"},
+    "2e06fa0215ee4706a5f47af555d26898":{
+      "scriptId":"u5"},
+    "b8c4c038531549edb08f4631408b0a3c":{
+      "scriptId":"u6"},
+    "f8f8894626f1431a9408ddff6eb6e962":{
+      "scriptId":"u7"}}});

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"我的健身数据.html",
-  "generationDate":new Date(1432237667522.64),
+  "generationDate":new Date(1432847391025.4),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -70,7 +70,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/我的健身数据/u0.png"}},
+            "normal~":"images/通知详情/u0.png"}},
 {
           "id":"01ebded455924ca3ae87db076cce4fba",
           "label":"",

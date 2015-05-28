@@ -1,14 +1,14 @@
 ﻿$axure.loadCurrentPage({
   "url":"出售详情页.html",
-  "generationDate":new Date(1432237664741.48),
+  "generationDate":new Date(1432847387378.19),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
-    "packageId":"0750433ee3a0488d9f874f9652d8997f",
+    "packageId":"c6ff7140c12140c7b74b03f6dd5e4637",
     "type":"Axure:Page",
     "name":"出售详情页",
     "notes":{
-},
+      "默认":"<p><span>1.价格输入框限制1~999.</span></p><p><span>2.15点以后 ，出售时间从第二开始计算。</span></p>"},
     "style":{
       "baseStyle":"627587b6038d43cca051c114ac41ad32",
       "pageAlignment":"near",
@@ -30,7 +30,7 @@
 },
     "diagram":{
       "objects":[{
-          "id":"651f1944cf384764b19a8aff03311a79",
+          "id":"dbca6329069d41dfa9fa1245eae7c700",
           "label":"",
           "type":"imageBox",
           "styleType":"imageBox",
@@ -42,7 +42,7 @@
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"428e12b5071b4fd493c3099196f45532",
+              "id":"ae87117ebf0043afb586df5df4ece257",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -62,17 +62,17 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 卖时间",
+                      "description":"在 当前窗口 打开 买时间",
                       "target":{
                         "targetType":"page",
-                        "url":"卖时间.html",
+                        "url":"买时间.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/发起购买请求页/u2.png"}},
+            "normal~":"images/出售详情页/u0.png"}},
 {
-          "id":"0d26b06df13c45cca42b1cf8a06dfb0e",
+          "id":"6949b8d72d284419b3e5bf367de7b89d",
           "label":"",
           "type":"imageBox",
           "styleType":"imageBox",
@@ -87,7 +87,7 @@
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"88dc219ee3bd45c7a6808c464e8a828d",
+              "id":"2b8323ab1bb140efb09618188113d109",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -105,7 +105,7 @@
           "images":{
             "normal~":"images/出售详情页/u2.jpg"}},
 {
-          "id":"eb651a3e905e475d80c2e2cbb9a75d5f",
+          "id":"0d9b717e44fa44d79467b88d15b63ff8",
           "label":"",
           "type":"buttonShape",
           "styleType":"paragraph",
@@ -128,7 +128,7 @@
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"cd1643c2350648ba87451f350156d274",
+              "id":"8e8e0f5db8bf4fea97f41202cdd05817",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -154,7 +154,7 @@
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"0275acebec434a8d938a877afad3aadf",
+          "id":"b432ce15adef4aefb5c6481694f6f596",
           "label":"",
           "type":"buttonShape",
           "styleType":"paragraph",
@@ -177,7 +177,7 @@
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"9e72aa77c1674c47a639f067386bf174",
+              "id":"76b182958e1a41768e826d4a4020f653",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -203,7 +203,7 @@
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"93ee4a5d3aee49608d137f05dc5414e1",
+          "id":"572af36d58a745e2a3fc1d6a1276710a",
           "label":"",
           "type":"buttonShape",
           "styleType":"paragraph",
@@ -226,7 +226,7 @@
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"2d3a807b9af94be98faafdd89adeb4e8",
+              "id":"66fc5efa7b03467389e243bfdac82561",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -252,7 +252,7 @@
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"8ffda3b02aaa4ef4b18f60502deecd61",
+          "id":"67974e2e57e543feb6698b6556d8610c",
           "label":"",
           "type":"buttonShape",
           "styleType":"paragraph",
@@ -274,7 +274,7 @@
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"ce92cc4aeda64b15a6e209617c8d82eb",
+              "id":"d7bb73752b8e483fa047db5ac31c6b01",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -299,7 +299,7 @@
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"d82672a4ca8e49b0abadfb22e4a6675b",
+          "id":"00e19dc2c8834cc3a00d9483e59b4bfe",
           "label":"",
           "type":"buttonShape",
           "styleType":"paragraph",
@@ -321,7 +321,7 @@
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"4100e7f64ad5474daf9352e95b3691e0",
+              "id":"c0c95a780d8142c8af442fd5c10b86af",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -346,7 +346,7 @@
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"80013b9cd2d94a73aa8319a7e12f1ecc",
+          "id":"0b68878ddc00473b8381a1b4d6540793",
           "label":"",
           "type":"buttonShape",
           "styleType":"paragraph",
@@ -368,7 +368,7 @@
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"efcc67dc48d34191817b59a17bb0c8b0",
+              "id":"9ee0ee3e261e47c695a054e2da496598",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -393,7 +393,7 @@
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"af8ae9e377ca45cd8bb1504cba662457",
+          "id":"47a75bde965f4ce49e51cdc1dd450fda",
           "label":"",
           "type":"buttonShape",
           "styleType":"paragraph",
@@ -416,7 +416,7 @@
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"1ab6752788644b97b9683c5fe02d2bed",
+              "id":"55abb58eceb64699bf780cd6b3de45f6",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -442,7 +442,7 @@
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"3529be1874024d68938e25d9d64ad046",
+          "id":"c153dffcab654c0ba68ea08acde4edd3",
           "label":"",
           "type":"imageBox",
           "styleType":"imageBox",
@@ -457,7 +457,7 @@
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"079c72b798734f78be98c8de9ed92264",
+              "id":"4accc556ea5c4086b0633aa877f34ca0",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -473,9 +473,9 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/发起购买请求页/u16.png"}},
+            "normal~":"images/出售详情页/u18.png"}},
 {
-          "id":"34e07ca00754422a85ae2f2021b29599",
+          "id":"f1368acfdeea4ab8983239018f4152c6",
           "label":"",
           "type":"imageBox",
           "styleType":"imageBox",
@@ -490,7 +490,7 @@
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"3d9280104db44a5eaa1bbf9cb41f7f0b",
+              "id":"29eb1575459f461fb5de39961618e1fe",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -506,9 +506,9 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/发起购买请求页/u16.png"}},
+            "normal~":"images/出售详情页/u18.png"}},
 {
-          "id":"c69bbbe8f8dd430f880dea40d2dbb84a",
+          "id":"43feab8c75aa4caba9e3e2b5e99f7fe4",
           "label":"",
           "type":"buttonShape",
           "styleType":"paragraph",
@@ -531,7 +531,7 @@
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"6e14cc570b7b456a91ea167352846383",
+              "id":"f1e5e0779ed1477a8ed855c9b33bd177",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -562,17 +562,17 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 确认售出页",
+                      "description":"在 当前窗口 打开 支付页面",
                       "target":{
                         "targetType":"page",
-                        "url":"确认售出页.html",
+                        "url":"支付页面.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"d23765edf5674b779fb3933e2c5cf2a6",
+          "id":"5ff662573b944cc4ba6837f1f370b712",
           "label":"",
           "type":"buttonShape",
           "styleType":"paragraph",
@@ -595,7 +595,7 @@
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"9b18621e06324713b9c546d273b95883",
+              "id":"453a274faf8f4448b0bfb85ca2f7590e",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -626,17 +626,17 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 发起出售请求页",
+                      "description":"在 当前窗口 打开 买时间",
                       "target":{
                         "targetType":"page",
-                        "url":"发起出售请求页.html",
+                        "url":"买时间.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"b4ee9555810f4661b01e1a65f0cbc88d",
+          "id":"4869545f9a7e4616b8ad518de7dc093c",
           "label":"",
           "type":"buttonShape",
           "styleType":"paragraph",
@@ -658,7 +658,7 @@
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"acff0a79895244d58e14808395d0d261",
+              "id":"d67c5b5911684688b1d5cb12e94b57fc",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -685,59 +685,59 @@
   "masters":{
 },
   "objectPaths":{
-    "651f1944cf384764b19a8aff03311a79":{
+    "dbca6329069d41dfa9fa1245eae7c700":{
       "scriptId":"u0"},
-    "428e12b5071b4fd493c3099196f45532":{
+    "ae87117ebf0043afb586df5df4ece257":{
       "scriptId":"u1"},
-    "0d26b06df13c45cca42b1cf8a06dfb0e":{
+    "6949b8d72d284419b3e5bf367de7b89d":{
       "scriptId":"u2"},
-    "88dc219ee3bd45c7a6808c464e8a828d":{
+    "2b8323ab1bb140efb09618188113d109":{
       "scriptId":"u3"},
-    "eb651a3e905e475d80c2e2cbb9a75d5f":{
+    "0d9b717e44fa44d79467b88d15b63ff8":{
       "scriptId":"u4"},
-    "cd1643c2350648ba87451f350156d274":{
+    "8e8e0f5db8bf4fea97f41202cdd05817":{
       "scriptId":"u5"},
-    "0275acebec434a8d938a877afad3aadf":{
+    "b432ce15adef4aefb5c6481694f6f596":{
       "scriptId":"u6"},
-    "9e72aa77c1674c47a639f067386bf174":{
+    "76b182958e1a41768e826d4a4020f653":{
       "scriptId":"u7"},
-    "93ee4a5d3aee49608d137f05dc5414e1":{
+    "572af36d58a745e2a3fc1d6a1276710a":{
       "scriptId":"u8"},
-    "2d3a807b9af94be98faafdd89adeb4e8":{
+    "66fc5efa7b03467389e243bfdac82561":{
       "scriptId":"u9"},
-    "8ffda3b02aaa4ef4b18f60502deecd61":{
+    "67974e2e57e543feb6698b6556d8610c":{
       "scriptId":"u10"},
-    "ce92cc4aeda64b15a6e209617c8d82eb":{
+    "d7bb73752b8e483fa047db5ac31c6b01":{
       "scriptId":"u11"},
-    "d82672a4ca8e49b0abadfb22e4a6675b":{
+    "00e19dc2c8834cc3a00d9483e59b4bfe":{
       "scriptId":"u12"},
-    "4100e7f64ad5474daf9352e95b3691e0":{
+    "c0c95a780d8142c8af442fd5c10b86af":{
       "scriptId":"u13"},
-    "80013b9cd2d94a73aa8319a7e12f1ecc":{
+    "0b68878ddc00473b8381a1b4d6540793":{
       "scriptId":"u14"},
-    "efcc67dc48d34191817b59a17bb0c8b0":{
+    "9ee0ee3e261e47c695a054e2da496598":{
       "scriptId":"u15"},
-    "af8ae9e377ca45cd8bb1504cba662457":{
+    "47a75bde965f4ce49e51cdc1dd450fda":{
       "scriptId":"u16"},
-    "1ab6752788644b97b9683c5fe02d2bed":{
+    "55abb58eceb64699bf780cd6b3de45f6":{
       "scriptId":"u17"},
-    "3529be1874024d68938e25d9d64ad046":{
+    "c153dffcab654c0ba68ea08acde4edd3":{
       "scriptId":"u18"},
-    "079c72b798734f78be98c8de9ed92264":{
+    "4accc556ea5c4086b0633aa877f34ca0":{
       "scriptId":"u19"},
-    "34e07ca00754422a85ae2f2021b29599":{
+    "f1368acfdeea4ab8983239018f4152c6":{
       "scriptId":"u20"},
-    "3d9280104db44a5eaa1bbf9cb41f7f0b":{
+    "29eb1575459f461fb5de39961618e1fe":{
       "scriptId":"u21"},
-    "c69bbbe8f8dd430f880dea40d2dbb84a":{
+    "43feab8c75aa4caba9e3e2b5e99f7fe4":{
       "scriptId":"u22"},
-    "6e14cc570b7b456a91ea167352846383":{
+    "f1e5e0779ed1477a8ed855c9b33bd177":{
       "scriptId":"u23"},
-    "d23765edf5674b779fb3933e2c5cf2a6":{
+    "5ff662573b944cc4ba6837f1f370b712":{
       "scriptId":"u24"},
-    "9b18621e06324713b9c546d273b95883":{
+    "453a274faf8f4448b0bfb85ca2f7590e":{
       "scriptId":"u25"},
-    "b4ee9555810f4661b01e1a65f0cbc88d":{
+    "4869545f9a7e4616b8ad518de7dc093c":{
       "scriptId":"u26"},
-    "acff0a79895244d58e14808395d0d261":{
+    "d67c5b5911684688b1d5cb12e94b57fc":{
       "scriptId":"u27"}}});

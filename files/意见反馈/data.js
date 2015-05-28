@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"意见反馈.html",
-  "generationDate":new Date(1432237668175.68),
+  "generationDate":new Date(1432847391591.43),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -256,11 +256,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":27,
-              "y":178},
+              "x":39.5,
+              "y":214},
             "size":{
-              "width":266,
-              "height":172}},
+              "width":241,
+              "height":156}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -272,11 +272,11 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":27,
-                  "y":178},
+                  "x":39.5,
+                  "y":214},
                 "size":{
-                  "width":266,
-                  "height":172}},
+                  "width":241,
+                  "height":156}},
               "adaptiveStyles":{
 }}],
           "interactionMap":{

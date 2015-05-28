@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"我的评价（持卡人评价我）.html",
-  "generationDate":new Date(1432237667186.62),
+  "generationDate":new Date(1432847390639.38),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -706,10 +706,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 消息详情",
+                      "description":"在 当前窗口 打开 评价详情页",
                       "target":{
                         "targetType":"page",
-                        "url":"消息详情.html",
+                        "url":"评价详情页.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -859,10 +859,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 消息详情",
+                      "description":"在 当前窗口 打开 评价详情页",
                       "target":{
                         "targetType":"page",
-                        "url":"消息详情.html",
+                        "url":"评价详情页.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -1012,10 +1012,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 消息详情",
+                      "description":"在 当前窗口 打开 评价详情页",
                       "target":{
                         "targetType":"page",
-                        "url":"消息详情.html",
+                        "url":"评价详情页.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

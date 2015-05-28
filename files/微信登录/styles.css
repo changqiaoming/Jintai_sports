@@ -84,3 +84,25 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u6 {
+  position:absolute;
+  left:129px;
+  top:77px;
+  width:57px;
+  height:57px;
+}
+#u6_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:57px;
+  height:57px;
+}
+#u7 {
+  position:absolute;
+  left:2px;
+  top:20px;
+  width:53px;
+  visibility:hidden;
+  word-wrap:break-word;
+}

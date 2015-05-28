@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"关注的商户详情.html",
-  "generationDate":new Date(1432237667870.66),
+  "generationDate":new Date(1432847390871.39),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -377,7 +377,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/我的健身数据/u0.png"}}]}},
+            "normal~":"images/通知详情/u0.png"}}]}},
   "masters":{
 },
   "objectPaths":{

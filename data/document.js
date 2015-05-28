@@ -53,17 +53,21 @@
                 "type":"Wireframe",
                 "url":"买时间.html",
                 "children":[{
-                    "pageName":"发起购买请求页",
+                    "pageName":"出售详情页",
                     "type":"Wireframe",
-                    "url":"发起购买请求页.html"},
+                    "url":"出售详情页.html"},
 {
-                    "pageName":"购买需求确认模板页面",
+                    "pageName":"下架提示",
                     "type":"Wireframe",
-                    "url":"购买需求确认模板页面.html",
+                    "url":"下架提示.html"},
+{
+                    "pageName":"发布求购信息",
+                    "type":"Wireframe",
+                    "url":"发布求购信息.html",
                     "children":[{
-                        "pageName":"订单详情页",
+                        "pageName":"发布成功提示",
                         "type":"Wireframe",
-                        "url":"订单详情页.html"},
+                        "url":"发布成功提示.html"},
 {
                         "pageName":"支付页面",
                         "type":"Wireframe",
@@ -73,21 +77,29 @@
                 "type":"Wireframe",
                 "url":"卖时间.html",
                 "children":[{
-                    "pageName":"回应详情页面",
+                    "pageName":"求购详情页",
                     "type":"Wireframe",
-                    "url":"回应详情页面.html"},
+                    "url":"求购详情页.html"},
 {
-                    "pageName":"发起出售请求页",
+                    "pageName":"回应确认",
                     "type":"Wireframe",
-                    "url":"发起出售请求页.html",
+                    "url":"回应确认.html"},
+{
+                    "pageName":"撤销提示",
+                    "type":"Wireframe",
+                    "url":"撤销提示.html"},
+{
+                    "pageName":"发布出售信息",
+                    "type":"Wireframe",
+                    "url":"发布出售信息.html",
                     "children":[{
-                        "pageName":"出售详情页",
-                        "type":"Wireframe",
-                        "url":"出售详情页.html"},
-{
                         "pageName":"确认售出页",
                         "type":"Wireframe",
-                        "url":"确认售出页.html"}]}]},
+                        "url":"确认售出页.html"},
+{
+                        "pageName":"付款说明",
+                        "type":"Wireframe",
+                        "url":"付款说明.html"}]}]},
 {
                 "pageName":"健身机构",
                 "type":"Wireframe",
@@ -115,11 +127,19 @@
 {
                 "pageName":"通知页面",
                 "type":"Wireframe",
-                "url":"通知页面.html"},
+                "url":"通知页面.html",
+                "children":[{
+                    "pageName":"通知详情",
+                    "type":"Wireframe",
+                    "url":"通知详情.html"}]},
 {
                 "pageName":"评价页面",
                 "type":"Wireframe",
-                "url":"评价页面.html"},
+                "url":"评价页面.html",
+                "children":[{
+                    "pageName":"评价详情",
+                    "type":"Wireframe",
+                    "url":"评价详情.html"}]},
 {
                 "pageName":"（交易记录）",
                 "type":"Wireframe",
@@ -159,7 +179,15 @@
 {
                     "pageName":"我的评价（商户评价我）",
                     "type":"Wireframe",
-                    "url":"我的评价（商户评价我）.html"}]},
+                    "url":"我的评价（商户评价我）.html"},
+{
+                    "pageName":"评价详情页",
+                    "type":"Wireframe",
+                    "url":"评价详情页.html"},
+{
+                    "pageName":"关注的商户详情",
+                    "type":"Wireframe",
+                    "url":"关注的商户详情.html"}]},
 {
                 "pageName":"我的交易",
                 "type":"Wireframe",
@@ -179,11 +207,7 @@
                     "children":[{
                         "pageName":"消息详情",
                         "type":"Wireframe",
-                        "url":"消息详情.html"}]}]},
-{
-                "pageName":"关注的商户详情",
-                "type":"Wireframe",
-                "url":"关注的商户详情.html"}]},
+                        "url":"消息详情.html"}]}]}]},
 {
             "pageName":"设置",
             "type":"Wireframe",

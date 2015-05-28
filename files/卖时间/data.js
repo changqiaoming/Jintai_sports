@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"卖时间.html",
-  "generationDate":new Date(1432237664440.47),
+  "generationDate":new Date(1432847387821.22),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -687,6 +687,21 @@
                   "height":70}},
               "adaptiveStyles":{
 }}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 求购详情页",
+                      "target":{
+                        "targetType":"page",
+                        "url":"求购详情页.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
@@ -744,10 +759,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 回应详情页面",
+                      "description":"在 当前窗口 打开 求购详情页",
                       "target":{
                         "targetType":"page",
-                        "url":"回应详情页面.html",
+                        "url":"求购详情页.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -833,6 +848,21 @@
                   "height":70}},
               "adaptiveStyles":{
 }}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 撤销提示",
+                      "target":{
+                        "targetType":"page",
+                        "url":"撤销提示.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
@@ -890,10 +920,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 订单详情页",
+                      "description":"在 当前窗口 打开 撤销提示",
                       "target":{
                         "targetType":"page",
-                        "url":"订单详情页.html",
+                        "url":"撤销提示.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -943,7 +973,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/买时间/u49.png"}},
+            "normal~":"images/买时间/u40.png"}},
 {
           "id":"f71a32bb8ab74e5da2b4dc1ba32a0df3",
           "label":"",
@@ -976,7 +1006,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/买时间/u51.png"}},
+            "normal~":"images/买时间/u42.png"}},
 {
           "id":"558f1f75bc124680a4f6c18a00868f8c",
           "label":"",
@@ -1091,7 +1121,156 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/买时间/u57.png"}},
+            "normal~":"images/买时间/u48.png"}},
+{
+          "id":"31c7f5408e444408bc6fcaa2bbd977ab",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":51,
+              "y":227},
+            "size":{
+              "width":24,
+              "height":23}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2b7aa97deddd4034ba425bd8a66aeb41",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":51,
+                  "y":227},
+                "size":{
+                  "width":24,
+                  "height":23}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/卖时间/u50.png"}},
+{
+          "id":"9597dadfa4a44ef9b588725eb46cf4b2",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":51,
+              "y":139},
+            "size":{
+              "width":24,
+              "height":23}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f8f1f6637cc74b04a8bb8384d94434d1",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":51,
+                  "y":139},
+                "size":{
+                  "width":24,
+                  "height":23}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/卖时间/u50.png"}},
+{
+          "id":"ec7be63fc9d24bc3a6c2689c13f76d9d",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":51,
+              "y":496},
+            "size":{
+              "width":24,
+              "height":23}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fd34867b34724b38b8140fdc49965b82",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":51,
+                  "y":496},
+                "size":{
+                  "width":24,
+                  "height":23}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/卖时间/u50.png"}},
+{
+          "id":"35a03985c88d4648b30928f4d2253073",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "opacity":"0",
+            "location":{
+              "x":3,
+              "y":181},
+            "size":{
+              "width":309,
+              "height":82}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e1afb2af88794c5595105d2c23de0539",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "opacity":"0",
+                "location":{
+                  "x":3,
+                  "y":181},
+                "size":{
+                  "width":309,
+                  "height":82}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 求购详情页",
+                      "target":{
+                        "targetType":"page",
+                        "url":"求购详情页.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
 {
           "id":"d6c8fe28ba0d447781cf3ecd437c3112",
           "label":"ButtonBigSecondary",
@@ -1134,7 +1313,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/买时间/buttonbigsecondary_u34.png"}},
+            "normal~":"images/买时间/buttonbigsecondary_u58.png"}},
 {
           "id":"b8dc29c50320437a9b722318861f77ad",
           "label":"买卖时间",
@@ -1186,7 +1365,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/买时间/u37.png"}},
+                    "normal~":"images/买时间/u61.png"}},
 {
                   "id":"96a50f3cb88d41be93eca11a9b538b49",
                   "label":"",
@@ -1230,10 +1409,10 @@
                           "isNewIfGroup":false,
                           "actions":[{
                               "action":"linkWindow",
-                              "description":"在 当前窗口 打开 发起出售请求页",
+                              "description":"在 当前窗口 打开 发布出售信息",
                               "target":{
                                 "targetType":"page",
-                                "url":"发起出售请求页.html",
+                                "url":"发布出售信息.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
@@ -1282,10 +1461,10 @@
                           "isNewIfGroup":false,
                           "actions":[{
                               "action":"linkWindow",
-                              "description":"在 当前窗口 打开 发起购买请求页",
+                              "description":"在 当前窗口 打开 发布求购信息",
                               "target":{
                                 "targetType":"page",
-                                "url":"发起购买请求页.html",
+                                "url":"发布求购信息.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
@@ -1301,105 +1480,6 @@
                 "imageRepeat":"auto"},
               "adaptiveStyles":{
 }}]},
-{
-          "id":"75417deddc1c4fdbb5e0e0ed675e3ec9",
-          "label":"",
-          "type":"imageBox",
-          "styleType":"imageBox",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":51,
-              "y":139},
-            "size":{
-              "width":24,
-              "height":23}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"c0c8c7c6d0024116bf59f9719553e8d4",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":51,
-                  "y":139},
-                "size":{
-                  "width":24,
-                  "height":23}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"images/卖时间/u59.png"}},
-{
-          "id":"309e7955354f4c4982635ea2f4c4c7db",
-          "label":"",
-          "type":"imageBox",
-          "styleType":"imageBox",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":51,
-              "y":227},
-            "size":{
-              "width":24,
-              "height":23}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"18554028c5ae4352962362ede8359341",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":51,
-                  "y":227},
-                "size":{
-                  "width":24,
-                  "height":23}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"images/卖时间/u59.png"}},
-{
-          "id":"0ee849dbc21a4e4897f1f1cffba3f0b1",
-          "label":"",
-          "type":"imageBox",
-          "styleType":"imageBox",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":51,
-              "y":496},
-            "size":{
-              "width":24,
-              "height":23}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"8a81a542bb7c4923aa816f832ee7f642",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":51,
-                  "y":496},
-                "size":{
-                  "width":24,
-                  "height":23}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"images/卖时间/u59.png"}},
 {
           "id":"1571b480f3d54fa29a4a9a24cd7c240a",
           "label":"",
@@ -1564,37 +1644,41 @@
       "scriptId":"u48"},
     "07e0c66042714f298339f5f169d4889a":{
       "scriptId":"u49"},
-    "d6c8fe28ba0d447781cf3ecd437c3112":{
+    "31c7f5408e444408bc6fcaa2bbd977ab":{
       "scriptId":"u50"},
-    "b6a0c7afb6c14a25a9132e670543e912":{
+    "2b7aa97deddd4034ba425bd8a66aeb41":{
       "scriptId":"u51"},
-    "b8dc29c50320437a9b722318861f77ad":{
+    "9597dadfa4a44ef9b588725eb46cf4b2":{
       "scriptId":"u52"},
-    "47342b2bb54a4ee2ad4642aab66e7549":{
+    "f8f1f6637cc74b04a8bb8384d94434d1":{
       "scriptId":"u53"},
-    "029aa3d0064748e5b903f951de9bd012":{
+    "ec7be63fc9d24bc3a6c2689c13f76d9d":{
       "scriptId":"u54"},
-    "96a50f3cb88d41be93eca11a9b538b49":{
+    "fd34867b34724b38b8140fdc49965b82":{
       "scriptId":"u55"},
-    "d0e45eb8b992442095f2361781d5bb66":{
+    "35a03985c88d4648b30928f4d2253073":{
       "scriptId":"u56"},
-    "c9fbe72225744519a3e53e67d11b6be5":{
+    "e1afb2af88794c5595105d2c23de0539":{
       "scriptId":"u57"},
-    "303cdd66fd5149dea8c1c5dc1eea9e75":{
+    "d6c8fe28ba0d447781cf3ecd437c3112":{
       "scriptId":"u58"},
-    "75417deddc1c4fdbb5e0e0ed675e3ec9":{
+    "b6a0c7afb6c14a25a9132e670543e912":{
       "scriptId":"u59"},
-    "c0c8c7c6d0024116bf59f9719553e8d4":{
+    "b8dc29c50320437a9b722318861f77ad":{
       "scriptId":"u60"},
-    "309e7955354f4c4982635ea2f4c4c7db":{
+    "47342b2bb54a4ee2ad4642aab66e7549":{
       "scriptId":"u61"},
-    "18554028c5ae4352962362ede8359341":{
+    "029aa3d0064748e5b903f951de9bd012":{
       "scriptId":"u62"},
-    "0ee849dbc21a4e4897f1f1cffba3f0b1":{
+    "96a50f3cb88d41be93eca11a9b538b49":{
       "scriptId":"u63"},
-    "8a81a542bb7c4923aa816f832ee7f642":{
+    "d0e45eb8b992442095f2361781d5bb66":{
       "scriptId":"u64"},
-    "1571b480f3d54fa29a4a9a24cd7c240a":{
+    "c9fbe72225744519a3e53e67d11b6be5":{
       "scriptId":"u65"},
+    "303cdd66fd5149dea8c1c5dc1eea9e75":{
+      "scriptId":"u66"},
+    "1571b480f3d54fa29a4a9a24cd7c240a":{
+      "scriptId":"u67"},
     "22c11d1d004940aeaafb9a08c73bc11a":{
-      "scriptId":"u66"}}});
+      "scriptId":"u68"}}});

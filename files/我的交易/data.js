@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"我的交易.html",
-  "generationDate":new Date(1432237667441.64),
+  "generationDate":new Date(1432847390960.4),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -8,7 +8,7 @@
     "type":"Axure:Page",
     "name":"我的交易",
     "notes":{
-},
+      "默认":"<p><span>1.我的交易表示进行中的和已完成的全部订单列表，无需跳转显示。</span></p>"},
     "style":{
       "baseStyle":"627587b6038d43cca051c114ac41ad32",
       "pageAlignment":"near",
