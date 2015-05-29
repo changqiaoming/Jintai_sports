@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"选择头像.html",
-  "generationDate":new Date(1432847390230.36),
+  "generationDate":new Date(1432921477374.34),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"启动页.html",
-  "generationDate":new Date(1432847386038.12),
+  "generationDate":new Date(1432921473119.1),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -398,7 +398,7 @@
                   "style":{
                     "location":{
                       "x":9,
-                      "y":20},
+                      "y":17},
                     "size":{
                       "width":249,
                       "height":115}},
@@ -415,7 +415,7 @@
                       "style":{
                         "location":{
                           "x":9,
-                          "y":20},
+                          "y":17},
                         "size":{
                           "width":249,
                           "height":115}},

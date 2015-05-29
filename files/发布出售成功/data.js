@@ -1,12 +1,12 @@
 ﻿$axure.loadCurrentPage({
-  "url":"验证码.html",
-  "generationDate":new Date(1432921473506.12),
+  "url":"发布出售成功.html",
+  "generationDate":new Date(1432921475191.22),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
-    "packageId":"4fedbd52735e43de97dda1d87d8d6179",
+    "packageId":"d8adde91d900417fad855c0c39d6289e",
     "type":"Axure:Page",
-    "name":"验证码",
+    "name":"发布出售成功",
     "notes":{
 },
     "style":{
@@ -30,7 +30,7 @@
 },
     "diagram":{
       "objects":[{
-          "id":"7ea1e99e33d2453f8f60ff1fcd596635",
+          "id":"58b510c6597341d793d32b457b68573d",
           "label":"",
           "type":"imageBox",
           "styleType":"imageBox",
@@ -38,11 +38,11 @@
           "style":{
             "size":{
               "width":320,
-              "height":568}},
+              "height":548}},
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"c0e7ac79841b493195ac2a2f988f7997",
+              "id":"3b52ac0718494472b75368da7a64ed53",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -51,62 +51,7 @@
               "style":{
                 "size":{
                   "width":320,
-                  "height":568}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"images/验证码/u0.png"}},
-{
-          "id":"0c8aa0d97b394f819955fa82d1eca1ac",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"buttonShape",
-          "visible":true,
-          "style":{
-            "fontSize":"17px",
-            "foreGroundFill":{
-              "fillType":"solid",
-              "color":0xFFFFFFFF,
-              "opacity":1},
-            "opacity":"0",
-            "location":{
-              "x":20,
-              "y":264},
-            "size":{
-              "width":280,
-              "height":39},
-            "borderWidth":"-1",
-            "borderFill":{
-              "fillType":"solid",
-              "color":0xFFCCCCCC},
-            "cornerRadiusTopLeft":"5"},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"bd73ea3412494d54b4d0ad888cbd0d2d",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "fontSize":"17px",
-                "foreGroundFill":{
-                  "fillType":"solid",
-                  "color":0xFFFFFFFF,
-                  "opacity":1},
-                "opacity":"0",
-                "location":{
-                  "x":20,
-                  "y":264},
-                "size":{
-                  "width":280,
-                  "height":39},
-                "borderWidth":"-1",
-                "borderFill":{
-                  "fillType":"solid",
-                  "color":0xFFCCCCCC},
-                "cornerRadiusTopLeft":"5"},
+                  "height":548}},
               "adaptiveStyles":{
 }}],
           "interactionMap":{
@@ -117,23 +62,83 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 【我的】页面（新注册）",
+                      "description":"在 当前窗口 打开 卖时间",
                       "target":{
                         "targetType":"page",
-                        "url":"【我的】页面（新注册）.html",
+                        "url":"卖时间.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"resources/images/transparent.gif"}}]}},
+            "normal~":"images/发布成功提示/u0.png"}},
+{
+          "id":"1ff857f3eb034f4ab72ab0149f3171ad",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFE6E6E6},
+            "location":{
+              "x":50,
+              "y":170},
+            "size":{
+              "width":220,
+              "height":70},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFE6E6E6}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"faa891e6f4644949a5ebd3a87e3d98c8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFE6E6E6},
+                "location":{
+                  "x":50,
+                  "y":170},
+                "size":{
+                  "width":220,
+                  "height":70},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFE6E6E6}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 卖时间",
+                      "target":{
+                        "targetType":"page",
+                        "url":"卖时间.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/发布成功提示/u2.png"}}]}},
   "masters":{
 },
   "objectPaths":{
-    "7ea1e99e33d2453f8f60ff1fcd596635":{
+    "58b510c6597341d793d32b457b68573d":{
       "scriptId":"u0"},
-    "c0e7ac79841b493195ac2a2f988f7997":{
+    "3b52ac0718494472b75368da7a64ed53":{
       "scriptId":"u1"},
-    "0c8aa0d97b394f819955fa82d1eca1ac":{
+    "1ff857f3eb034f4ab72ab0149f3171ad":{
       "scriptId":"u2"},
-    "bd73ea3412494d54b4d0ad888cbd0d2d":{
+    "faa891e6f4644949a5ebd3a87e3d98c8":{
       "scriptId":"u3"}}});

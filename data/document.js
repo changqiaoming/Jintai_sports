@@ -93,13 +93,13 @@
                     "type":"Wireframe",
                     "url":"发布出售信息.html",
                     "children":[{
-                        "pageName":"确认售出页",
+                        "pageName":"确认出售页",
                         "type":"Wireframe",
-                        "url":"确认售出页.html"},
+                        "url":"确认出售页.html"},
 {
-                        "pageName":"付款说明",
+                        "pageName":"发布出售成功",
                         "type":"Wireframe",
-                        "url":"付款说明.html"}]}]},
+                        "url":"发布出售成功.html"}]}]},
 {
                 "pageName":"健身机构",
                 "type":"Wireframe",

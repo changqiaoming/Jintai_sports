@@ -1,12 +1,12 @@
 ﻿$axure.loadCurrentPage({
-  "url":"发布成功提示.html",
-  "generationDate":new Date(1432921474685.19),
+  "url":"确认出售页.html",
+  "generationDate":new Date(1432921475164.22),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
-    "packageId":"b340a1f79e2c4bf0b1a2b31013d5b5d8",
+    "packageId":"c4081039ccde4b859c11ebbc6e7a67fb",
     "type":"Axure:Page",
-    "name":"发布成功提示",
+    "name":"确认出售页",
     "notes":{
 },
     "style":{
@@ -30,7 +30,7 @@
 },
     "diagram":{
       "objects":[{
-          "id":"687e551250f1491591adf6969728ffd2",
+          "id":"64e5a359a8584e698e602bff413d9790",
           "label":"",
           "type":"imageBox",
           "styleType":"imageBox",
@@ -42,7 +42,7 @@
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"e9e7b9ba33454b5299a3e4a6f53053a6",
+              "id":"dcb7c6c8c0264da8b2c199e112b1e66a",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -62,83 +62,72 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 买时间",
+                      "description":"在 当前窗口 打开 发布出售成功",
                       "target":{
                         "targetType":"page",
-                        "url":"买时间.html",
+                        "url":"发布出售成功.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/发布成功提示/u0.png"}},
+            "normal~":"images/确认出售页/u0.png"}},
 {
-          "id":"e4b786a363b74f47896bd611d260b485",
+          "id":"14521b80310f4e7a83d7658ee6ff0f73",
           "label":"",
           "type":"buttonShape",
           "styleType":"buttonShape",
           "visible":true,
           "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "verticalAlignment":"top",
             "fill":{
               "fillType":"solid",
               "color":0xFFE6E6E6},
             "location":{
-              "x":50,
-              "y":170},
+              "x":123,
+              "y":178},
             "size":{
-              "width":220,
-              "height":70},
+              "width":46,
+              "height":18},
             "borderFill":{
               "fillType":"solid",
               "color":0xFFE6E6E6}},
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"637c6b3177e248a2931cb50ab0925652",
+              "id":"66b801cab49a4ce39f6bb8df7d22b2ca",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
               "styleType":"paragraph",
               "visible":true,
               "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "verticalAlignment":"top",
                 "fill":{
                   "fillType":"solid",
                   "color":0xFFE6E6E6},
                 "location":{
-                  "x":50,
-                  "y":170},
+                  "x":123,
+                  "y":178},
                 "size":{
-                  "width":220,
-                  "height":70},
+                  "width":46,
+                  "height":18},
                 "borderFill":{
                   "fillType":"solid",
                   "color":0xFFE6E6E6}},
               "adaptiveStyles":{
 }}],
-          "interactionMap":{
-            "onClick":{
-              "description":"OnClick",
-              "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 买时间",
-                      "target":{
-                        "targetType":"page",
-                        "url":"买时间.html",
-                        "includeVariables":true},
-                      "linkType":"current"}]}]}},
-          "tabbable":true,
           "images":{
-            "normal~":"images/发布成功提示/u2.png"}}]}},
+            "normal~":"images/确认出售页/u2.png"}}]}},
   "masters":{
 },
   "objectPaths":{
-    "687e551250f1491591adf6969728ffd2":{
+    "64e5a359a8584e698e602bff413d9790":{
       "scriptId":"u0"},
-    "e9e7b9ba33454b5299a3e4a6f53053a6":{
+    "dcb7c6c8c0264da8b2c199e112b1e66a":{
       "scriptId":"u1"},
-    "e4b786a363b74f47896bd611d260b485":{
+    "14521b80310f4e7a83d7658ee6ff0f73":{
       "scriptId":"u2"},
-    "637c6b3177e248a2931cb50ab0925652":{
+    "66b801cab49a4ce39f6bb8df7d22b2ca":{
       "scriptId":"u3"}}});

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"微信登录.html",
-  "generationDate":new Date(1432847386385.14),
+  "generationDate":new Date(1432921473328.11),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

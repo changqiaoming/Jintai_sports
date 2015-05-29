@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"撤销提示.html",
-  "generationDate":new Date(1432847387969.23),
+  "generationDate":new Date(1432921474994.21),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -70,11 +70,75 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/下架提示/u0.png"}}]}},
+            "normal~":"images/下架提示/u0.png"}},
+{
+          "id":"ce1acaba4ca448b4a58f1387ac017110",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFE6E6E6},
+            "location":{
+              "x":50,
+              "y":170},
+            "size":{
+              "width":220,
+              "height":70},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFE6E6E6}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5eca318e0af34971b56bd9bfeb8ec3b7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFE6E6E6},
+                "location":{
+                  "x":50,
+                  "y":170},
+                "size":{
+                  "width":220,
+                  "height":70},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFE6E6E6}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 卖时间",
+                      "target":{
+                        "targetType":"page",
+                        "url":"卖时间.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/发布成功提示/u2.png"}}]}},
   "masters":{
 },
   "objectPaths":{
     "d708f5e1ac8b4748b916a5ed885f516f":{
       "scriptId":"u0"},
     "b2ff124dfb5d4ef6a1477d8e50792ac7":{
-      "scriptId":"u1"}}});
+      "scriptId":"u1"},
+    "ce1acaba4ca448b4a58f1387ac017110":{
+      "scriptId":"u2"},
+    "5eca318e0af34971b56bd9bfeb8ec3b7":{
+      "scriptId":"u3"}}});

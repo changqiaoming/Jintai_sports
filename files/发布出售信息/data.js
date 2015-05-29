@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"发布出售信息.html",
-  "generationDate":new Date(1432847388079.23),
+  "generationDate":new Date(1432921475086.21),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -607,9 +607,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 链接",
+                      "description":"在 当前窗口 打开 确认出售页",
                       "target":{
                         "targetType":"page",
+                        "url":"确认出售页.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

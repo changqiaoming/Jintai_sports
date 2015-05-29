@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"我的评价（商户评价我）.html",
-  "generationDate":new Date(1432847390763.39),
+  "generationDate":new Date(1432921477959.38),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

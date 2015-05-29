@@ -36,22 +36,23 @@
 }
 #u2 {
   position:absolute;
-  left:50px;
-  top:170px;
-  width:220px;
-  height:70px;
+  left:123px;
+  top:178px;
+  width:46px;
+  height:18px;
+  font-family:'微软雅黑 Regular', '微软雅黑';
 }
 #u2_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:220px;
-  height:70px;
+  width:46px;
+  height:18px;
 }
 #u3 {
   position:absolute;
   left:2px;
-  top:19px;
-  width:216px;
+  top:2px;
+  width:42px;
   word-wrap:break-word;
 }
